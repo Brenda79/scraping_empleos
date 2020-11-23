@@ -1,0 +1,2521 @@
+﻿web-scraper-order,web-scraper-start-url,pages,pages-href,titulo,titulo-href,empresa,descripcion
+"1605313803-2574","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Senior Data Engineer","https://mx.indeed.com/rc/clk?jk=c3eaeff7b6fd0f8a&fccid=69404b4fd1d4bb12&vjs=3","Kueski","Why Kueski?
+
+""DO TECH SHARE WEALTH”
+
+
+Kueski is a technology company that provides digital financial services to the underserved in Mexico.
+
+The company uses advanced artificial intelligence and machine learning tools to conveniently
+
+evaluate creditworthiness and disperse loans in a matter of seconds. The company is working to close
+
+the “access to credit” gap by creating a digital financial ecosystem in a country where a large part of
+
+the population does not have access to safe solutions that allow them to create a healthy credit
+
+history.
+
+Kueski is a startup with a presence in Silicon Valley and Guadalajara. Our investors: CrunchFund,
+
+Core Ventures Group, Sobrato, and Ariel Poler are between the best in the World having invested in
+
+companies such as Uber, Pinterest, FourSquare, Airbnb, and Square.
+
+
+
+Benefits and Perks:
+Stock Options.Major medical insuranceFlexible work time, including working from home.10 days of vacations. You decide when to take vacations. Hard work deserves a good rest.Breakfast, lunch, snacks… food 24 hours.Nap room. (For those moments of nap time).Developer-creative oriented workspace.Pantry Vouchers30 day Christmas Bonus.No dress code but PLEASE, come dressed!.Law benefits
+
+This is a remote role. Candidates located in Mexico and anywhere in Latin America will be considered.
+
+Objective:
+
+Drive the architectural design, implementation plan, best practices, and testing plans for projects involving terabytes of data, which will serve as the foundation of advanced analytics and machine learning initiatives.
+
+Goal of our team:
+
+Transport data reliably across all our systems and users for analytical purposes.
+
+Requirements of the position:
+
+Strong programming skills with solid engineering foundations: coding practices, architectural and design skills.
+Experience designing and implementing ETL processes, dealing with big volumes of data requiring distributed processing
+Experience with NoSQL databases such as Apache HBase, MongoDB, Cassandra, etc.
+Experience in data stream processing technologies including Kafka, Spark Streaming, etc.
+Experience working with infrastructure as a code (AWS Cloudformation, Ansible, etc.)
+Experience with RESTful API oriented design and service-oriented architectures
+
+What you will be doing:
+
+Working with state of the art data open source processing techniques: ELT, Batch, Streaming, Incremental Loads among others.
+Build services which allow us to ingest and transform data among many layers of our architecture. No matter the size, format and speed we can tackle it.
+Keep on learning the newest data processing technologies such as NoSQL, Orchestrators, Serverless, Autoscaling Clusters and many others.
+Help strengthen our Data Management, Quality and Monitoring processes.
+Work closely with other Engineers, Data Scientists, Product Owners and Managers, Analysts and nontechnical stakeholders to help them get access to reliable data
+
+What you won’t be doing:
+
+Using common ETL tools like Informatica, Talend, Pentaho, etc. We build our own systems.
+Building, Deploying or maintaining Machine Learning Models or complex Feature Engineering. These tasks are handled by our Data Science and Machine Learning Engineer Teams.
+Building and maintaining relational databases. We don’t handle transactional processing.
+Directly managing people. While we work as a team you won’t have people reporting directly to you
+
+You will need to be successful:
+
+You have intellectual curiosity and the capacity to learn and implement new data architectures and leading edge technologies.
+You thrive in dynamic, fast-paced, results-oriented teams
+You believe in building great products and doing great work
+You want to understand the big picture, to be held accountable and make a meaningful contribution with your work
+
+Technical knowledge:
+
+Python, Java or Scala proficiency
+Solid experience with Spark
++3 years of experience with large-scale data engineering
+Experience with cloud platforms & services
+English: intermediate-advanced
+Unit / functional / integration testing
+
+Plus:
+
+BS/MS/Ph.D. in Computer Science or equivalent
+Statistical analysis and descriptive analytics"
+"1605313571-2558","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Software Developer 3","https://mx.indeed.com/rc/clk?jk=8db5ff562a8d299c&fccid=cd22d01053af7669&vjs=3","Oracle","Software Developer 3-20000WJQ
+
+
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+
+Preferred Qualifications - Internal
+The Cloud Solutions team is an integral part of the Oracle Communications Global Business Unit (CGBU). The CGBU provides highly available and highly scalable, 5-Nines telecommunications products in real and virtualized environments, used by the world’s leading telecom providers. The Cloud Solutions team supports the CGBU by providing on-premise standards based cloud labs and also contributes in the transformation to a SaaS based deployment model.
+
+
+Position Description:
+
+
+As part of the CGBU Cloud Solutions team, the candidate will be fluent in the following:
+
+
+Linux system operations and administration
+Openstack cloud installation, operation, and support
+Networking for IPv4 and IPv6
+Python and Bash scripting
+Cloud native software development principles and tools including Docker, Containers and Kubernetes
+CI/CD pipeline management
+Agile development methodologies using Kanban and Srcum setup
+Ability to work well with others in a geo-diverse team leveraging remote collaboration technologies
+Excellent oral and written communication skills
+A resourceful and innovative approach to technology and problem solving
+Strong work ethic
+High integrity
+Tools : Jira, Confluence, Git, Zoom, Slack, Jenkins, Terraform, Chef, Ansible, ELK stack
+
+
+Preferred Qualifications:
+
+
+Awareness of current industry trends and standards for cloud deployments.
+Hands-on setup of a cloud system and its hardware deployment.
+Orchestration and automated configuration management.
+Machine Learning and Data Analytics for log files
+
+
+Summary of Qualifications:
+A major in Computer Science, Computer Engineering with 5-8 years of experience, strong work ethic, and high integrity.
+
+
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+
+
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
+"1605313285-2538","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Cloud Solutions Engineering Student","https://mx.indeed.com/rc/clk?jk=52ee96a9af7772f2&fccid=f1374be6a45f4b8a&vjs=3","Intel","Job Description
+
+
+As a Cloud Solutions Engineering Student, you'll be responsible for but not limited to the following:
+Characterize performance bottlenecks of Intel products across Cloud Service Provider workloads (HPC, OLTP, Machine learning inference)
+Find optimization opportunities in the next Gen CPU Architecture
+Deep dive into both hardware and software of CSP workloads to understand full system architecture and performance
+Design and implement proxy workloads to emulate customer scenarios.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position.
+Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+
+
+Candidate must be pursuing a BS or higher degree in Computer Science, Electrical engineering, or related field.
+
+
+Minimum Qualifications:
+6+ months experience with:
+Fundamentals in CPU architecture
+C/C++ programming
+Python programming
+Inside this Business Group
+
+
+The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world."
+"1605313296-2539","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Business Process Coordinator","https://mx.indeed.com/rc/clk?jk=aeafca240877f971&fccid=69404b4fd1d4bb12&vjs=3","Kueski","Why Kueski
+
+
+
+""DO TECH SHARE WEALTH”
+
+
+Kueski is a technology company that provides digital financial services to the underserved in Mexico.
+
+The company uses advanced artificial intelligence and machine learning tools to conveniently
+
+evaluate creditworthiness and disperse loans in a matter of seconds. The company is working to close
+
+the “access to credit” gap by creating a digital financial ecosystem in a country where a large part of
+
+the population does not have access to safe solutions that allow them to create a healthy credit
+
+history.
+
+Kueski is a startup with a presence in Silicon Valley and Guadalajara. Our investors: CrunchFund,
+
+Core Ventures Group, Sobrato, and Ariel Poler are between the best in the World having invested in
+
+companies such as Uber, Pinterest, FourSquare, Airbnb, and Square.
+
+Benefits and Perks:
+
+
+Stock Options.Major medical insurance & Flexible work time, including working from home.10 days of vacations. You decide when to take vacations. Hard work deserves a good rest.Breakfast, lunch, snacks… food 24 hours.Nap room. (For those moments of nap time).Developer-creative oriented workspace.Pantry Vouchers30 day Christmas Bonus.No dress code but PLEASE, come dressed!.Law benefits.
+
+Objective:
+
+This role will be responsible for leading the business process development in the organization. This means designing, modeling, implementing, monitoring and ensuring continuous improvement of our key processes. These improvements will increase benefit realization, value creation, and the achievement of results and outcomes.
+
+This role is also responsible of generating documentation of existing processes and improvements, forecast expected results of process changes, analyze implemented changes and make further adjustments to workflows.
+
+Why you:
+
+Requirements of the position:
+
+Advanced English
+Bachelor’s Degree in industrial Engineering or equivalent.
+Minimum 5 years’ experience working in business process positions, writing/formulating policy and procedure documentation.
+Demonstrated experience in the development of policy, procedure, and forms documentation.
+Formal Business Process certification and expertise using recognized methodologies.
+
+Responsibilities.
+
+Provide leadership to the business partners, providing direction and guidance in terms of business process implementation and improvement.
+Lead the development of the business process modeling from Macro-processes down to sub-processes.
+Ensure the business strategy is designed into the business processes.
+Be an evangelist on the importance of process improvements to escale up the company.
+Lead and implement the BCP of the company.
+Coordinate with cross-functional teams to build the company business processes.
+Facilitate process workshops in order to gather the input from the business on the business processes and roles and responsibilities. Document the business requirements, business process maps and definitions, and review the associated procedures and practices and perform cross functional reviews
+Maintain and provide a framework for transformation and for continuous improvement plans on processes.
+Develop and manage effective working relationships with business partners.
+Develop and ensure adherence to business process reviews and approval procedures.
+Work with the BDI team to align KPIs with the designed processes.
+Interview subject matter experts, observe work processes, and collaborate with business leaders and staff to research and analyze information required for the development or update of procedures and forms documentation.
+Support continuous improvement by providing a feedback system for improvements to business processes and periodic review by the business owners
+
+You will need to be successful:
+
+Strong understanding of the strategic role of the business process in enabling the company to achieve its business goals.
+Good business process acumen.
+Ability to inspire others and the desire to be seen as a trusted advisor.
+Build Strong relationships with business partners.
+Ability to negotiate with different stakeholders and build consensus.
+Always looking for continuous improvement
+
+Location:
+
+Remote / Guadalajara, Jalisco
+
+International/National relocation covered by Kueski.
+
+
+
+By submitting your application clicking the &quot;Submit Application&quot; button, you are accepting our Privacy Notice, available on: https://kueski.com/politicas"
+"1605313903-2584","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Lead Data Engineer","https://mx.indeed.com/company/Luuna/jobs/Lead-data-engineer-7e516a6c19eeb1e1?fccid=2bc48c439a84746f&vjs=3","LUUNA","Luuna's vision is to be the most customer-focused Mexican brand. This is the mission that defines the culture of our company, the work environment and the people we hire.*
+If you are a Data Engineer who has experience leading high-performance, data focused teams with innovative and challenging projects, if you have excellent coding skills, strong data modeling skills, a strong interest in data mining, machine learning and last but not least, great soft skills to lead and motivate specialized data teams, this position is for you.Your main tasks will be:You will lead a team of data/backend engineers, data scientists and business intelligence analysts from a technical standpoint. You should have past management experience of such profiles and feel comfortable having a conversation with each of them while leading their specialized efforts towards achieving business goals.You will partner with Business Area Leads, form, articulate and defend independent viewpoints while having the ability to seamlessly translate technical and business needs in both directions.You should especially master Python and SQL at a high level. A big part of our infrastructure is written in Python, and we use relational models for all our products (it is a good sign if you have a strong opinion on whether that is a good idea or not)Our dreamed candidate:5 years of experience as a Data Engineer.2 years leading a Data Team.Strong knowledge in Data Science best practices.Strong knowledge of Spark, Hive, Glue, Athena, Redshift and/or other big data frameworks and tools and their function within a data infrastructureSQL and Python are mandatory.Go or other backend language is a plus.Best Practices for Data Warehousing.Familiarity with CRM systems, Salesforce especially, a plus.Business English is mandatory.What do we offer?Salary according to experienceLaw BenefitsUpper Law Benefits:15 vacations days from the first year of employmentSpecial English Classes and Gym PricesBasic and Major Medical InsuranceLife Insurance*Tipo de puesto: Tiempo completo, IndefinidoSalario: $70,000.00 - $80,000.00 al mesHorario:Turno de 8 horasExperiencia:Data Science: 1 año (Requisito deseable)SQL: 2 años (Requisito deseable)Data Engineer: 5 años (Requisito deseable)Python: 2 años (Requisito deseable)Teamlead: 2 años (Requisito deseable)Trabajar desde casa:Sí, temporalmente debido a la COVID-19"
+"1605313437-2551","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Maintenance Technician","https://mx.indeed.com/rc/clk?jk=661b480a656f9e56&fccid=87f38351bd29de24&vjs=3","Eaton","Eaton’s Vehicels division is currently seeking a Maintenance Technician to join our team. This position is based at our Aguascalientes Engine Valves Finsa Park facility.
+
+The Maintenance Technician is responsible for supporting facilities and equipment installation, maintenance, and repairs for the new site start-up and on-going operations. Provides advanced troubleshooting, repair and installation of electronic and electronic controlled equipment in a manufacturing environment.
+
+Making what matters work at Eaton takes the passion of every employee around the world. We create an environment where creativity, invention and discovery become reality, each and every day. It’s where bold, bright professionals like you can reach your full potential—and where you can help us reach ours.
+
+Some activities related with the position will be:
+
+Performs mechanical, electrical, pneumatic and hydraulic repair work on plant equipment
+
+Troubleshoots and repairs machine malfunctions and mechanical problems and electrical problems
+
+Keeps work area clean and free of hazards – 5-S program
+
+Performs preventive maintenance on plant equipment
+
+Completes special projects as required – including design and repair work on material handling systems and other mechanical devices
+
+Designs and fabricates parts to improve machine operation
+
+Completes projects as directed (machine moves, modifications, installations, material handling, remodeling, work area, etc.)
+
+Programs basic electronic control equipment.
+
+Recommends changes for existing production equipment to improve product quality, equipment reliability and equipment productivity.
+
+Documents electrical modifications to machine tools on associated electrical drawings.
+
+Recommends modifications of electronic control equipment
+
+Help train machine operators on operation of new control systems.
+
+When we embrace the different ideas, perspectives and backgrounds that make each of us unique, we — as individuals and as a company — are stronger.
+
+
+
+#DS-L1
+
+
+Qualifications
+Required (Basic) Qualifications:
+
+High School diploma or equivalent
+Knowledge of blueprint and process sheet reading
+
+Knowledge of electrical and electronic systems
+
+Proficient in pneumatic and hydraulic systems
+
+Knowledge of programmable logic controls
+
+Proficient in plumbing systems
+
+Knowledge of CNC Machines
+
+Welding skills
+Preferred Qualifications:
+
++3yrs Maintenance and/or electrical experience
+
+Associates degree in related field
+
+Previous work experience in Tool and Die
+Understands Statistical Process Control
+
+Understanding of electronic circuitry
+
+Working knowledge of heat treating and metallurgical principles
+
+Working knowledge of steel types and ability to determine which are best in different plant applications
+
+Demonstrated understanding of metal cutting, inserts, feeds, speeds, etc.
+Position Success Criteria :
+
+Travel may be required (<10-40%) – depending on project phase
+
+
+We make what matters work. Everywhere you look—from the technology and machinery that surrounds us, to the critical services and infrastructure that we depend on every day—you’ll find one thing in common. It all relies on power. That’s why Eaton is dedicated to improving people’s lives and the environment with power management technologies that are more reliable, efficient, safe and sustainable. Because this is what matters. We are confident we can deliver on this promise because of the attributes that our employees embody. We’re ethical, passionate, accountable, efficient, transparent and we’re committed to learning. These values enable us to tackle some of the toughest challenges on the planet, never losing sight of what matters.
+Job: Manufacturing & Operations
+
+
+Region: Latin America
+
+Organization: VEH NAA North America Auto
+
+
+Job Level: Individual Contributor
+
+Schedule: Full-time
+
+Is remote work (i.e. working from home or another Eaton facility) allowed for this position?: No
+
+Does this position offer relocation?: Relocation from within hiring country only
+
+Travel: Yes, 10 % of the Time"
+"1605313601-2560","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","ADAS Algorithm Development Engineer","https://mx.indeed.com/rc/clk?jk=4140f4969fcf5f18&fccid=12aa2da60fa1c62f&vjs=3","Continental AG","Tasks
+
+The Sensing and Driving Functions Algorithm Engineer will be responsible for the design, development, and maintainance of features in radar, camera, fusion, and/or vehicle control systems. He/she will actively work with internal and external engineering teams to bring high-quality products into production.
+
+
+
+Additional Responsibilities:
+
+
+Develop embedded sensor algorithms to meet product requirements
+Utilize advanced data analysis techniques to provide insight and inspire future development
+Maintain correspondence with multiple engineering teams, both internal and external.
+Maintain a thorough understanding of customer and product requirements
+Follow Continental's Material Life Cycle development process, including code, requirements, and test result reviews
+
+Qualifications
+
+
+
+Basic Qualifications:
+
+
+Effective communication in English (TOEIC 700+)
+BS degree in related engineering field: Computer Science, Physics, or Mathematics
+Strong ability to solve problems in logic, mathematics, and dynamics
+Proficient at implementing algorithms with C/C++ programming
+Skilled at analyzing large sets of data using Python/Matlab
+Experience developing complex software
+Solid knowledge developing prediction, tracking, and classification algorithms for computer vision, machine learning etc
+Willingness to work on different sensor products, and serve many different roles to fill department needs
+
+Preferred Qualifications:
+
+
+Fluent communication in English (TOEIC 900+)
+M.S./Ph.D. degree in related engineering field: Computer Science, Physics, or Mathematics
+Expert ability to solve problems in logic, mathematics, and dynamics
+Experience developing automotive software is a plus
+Development experience with radar and camera sensors and algorithms
+Self-motivated, with an ability to work within a team or autonomously
+
+Benefits
+
+
+
+Reisekostenzulage
+
+
+
+Kantine
+
+
+
+Flexible Arbeitszeiten
+
+
+
+Gehaltsbonus
+
+
+
+Gesundheitsvorsorge
+
+
+
+Lebensversicherung
+
+
+
+Karriereberatung und Trainingsangebot
+
+
+
+Mitarbeiter werben Mitarbeiter
+
+
+
+About us
+
+The Autonomous Mobility and Safety Business Area integrates safety technologies and controls vehicle dynamics to ensure safe and comfortable driving. The objective is to implement ""Vision Zero"", the vision of accident-free driving. Autonomous Mobility and Safety's components and system capabilities are prerequisites for autonomous mobility.
+
+
+
+Keyfacts
+
+Job-ID
+
+160775BR
+
+Function
+
+Engineering
+
+Nice to know
+
+
+
+Continentals Spezialisten aus unterschiedlichen Disziplinen treiben den Trend des Automatisierten Fahrens mit aller Innovationskraft voran.
+
+
+
+App. w. professional exp."
+"1605313396-2548","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Data Scientist","https://mx.indeed.com/company/iProcess-Solutions-Inc/jobs/Data-scientist-b8739fcd0533b6f5?fccid=6459d45b9b280b1a&vjs=3","iProcess Solutions Inc","Marketing Analytics LeadThis is a full-time contractor role based in Mexico, providing support for
+Marketing Data Sciences Group at a 500 Fortune company in USA.. The applicant would be required to analyze large volumes of data, derive KPIs, measure campaign performance and build executive reports/dashboards in Datorama. The individual will be responsible for troubleshooting issues stemming from digital marketing campaign performance reports. The individual will be expected to work with various corporate data assets, be proficient in data cleansing analysis and visualization, utilize multiple tools, work across multiple teams to help solve marketing decision problems.Education and Experience: BS in computer science, engineering, statistics or math5+ years in related fieldKnowledge and Skills: Strong knowledge of marketing principles, practices, tactics and tools preferredProficiency in data, data visualization and reporting in digital marketing domainIn-depth knowledge of relational database, big data platforms, statistical software and machine learning algorithms packagesDatorama or similar advanced reporting tool like Tableau experience required. If noDatorama experience, then the candidate should be confident to learn Datorama quickly and deliver.Knowledge of Google or other ad platformsKnowledge of Python or any programming languageHands-on experience in SQL required. Should be able to handle large amounts of data(loading, cleansing and analysis)Self motivated with strong problem-solving skills and ability to work independently requiredGood English written/oral communications skillsAbility to interface effectively with management teamJob Type: ContractPay: $2,500.00 - $3,000.00 per monthBenefits:Paid time offSchedule:Flexible shiftCOVID-19 considerations:
+Job is completely remoteWork Remotely:Yes"
+"1605313467-2554","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Credit Risk Analytics Lead","https://mx.indeed.com/rc/clk?jk=6bab4c624f8d7e19&fccid=69404b4fd1d4bb12&vjs=3","Kueski","Why Kueski
+
+
+
+""DO TECH SHARE WEALTH”
+
+
+Kueski is a technology company that provides digital financial services to the underserved in Mexico.
+
+The company uses advanced artificial intelligence and machine learning tools to conveniently
+
+evaluate creditworthiness and disperse loans in a matter of seconds. The company is working to close
+
+the “access to credit” gap by creating a digital financial ecosystem in a country where a large part of
+
+the population does not have access to safe solutions that allow them to create a healthy credit
+
+history.
+
+Kueski is a startup with a presence in Silicon Valley and Guadalajara. Our investors: CrunchFund,
+
+Core Ventures Group, Sobrato, and Ariel Poler are between the best in the World having invested in
+
+companies such as Uber, Pinterest, FourSquare, Airbnb, and Square.
+
+Benefits and Perks:
+
+
+Stock Options.Major medical insurance & Flexible work time, including working from home.10 days of vacations. You decide when to take vacations. Hard work deserves a good rest.Breakfast, lunch, snacks… food 24 hours.Nap room. (For those moments of nap time).Developer-creative oriented workspace.Pantry Vouchers30 day Christmas Bonus.No dress code but PLEASE, come dressed!.Law benefits.
+
+Objective:
+
+Accountable for defining, implementing and tracking credit risk strategies aligned to risk appetite and business targets on profitability and growth.
+
+Analyze credit portfolio quality in order to identify opportunities or concerns, and appropriate actions to mitigate bad rate while maintaining customer experience, Franchise Value and growth expectations.
+
+Why you:
+
+Requirements of the position:
+
+4+ years of experience in the Financial industry, mainly focused on Consumer Lending and Risk on analytical areas.
+Proven experience defining, implementing and tracking risk strategies including both underwriting and line management assessments, such as: approve/decline decision, line amount assignment, increase/decrease line amount, risk based pricing, etc.
+1+ years leading analytical teams is desired.
+Bachelor’s degree and desirable master or specialized studios in finance or analytical areas.
+
+Responsabilities:
+
+Responsibilities.
+
+Usual:
+
+Build detailed analysis in order to understand in depth the credit behavior, keep key stakeholders informed about risk performance, and ensure that relevant concerns are timely escalated.
+Identify material matters related to credit risk, propose follow-up actions and ensure the appropriate deployment of mitigating actions required and track results.
+Define and update risk methodologies to forecast credit risk performance useful on decision making based on forward looking perspective.
+
+Periodic:
+
+Propose risk strategies focused on acceptance criteria and loan specifications (such as amount, interest rate or tenure), in order to meet or exceed performance and behavioral expectations in terms of delinquency rates, growth and profitability.
+
+Occasional:
+
+Collaborate on discovery, evaluation and deployment of analytical tools, including relevant data sources, model building, infrastructure and decision engines.
+
+
+
+You will need to be successful:
+
+Keep informed about best practices in the industry in order to optimize risk strategies and loss rate mitigation capabilities.
+Build analysis and proposals including: economic results, customer experience and business sense.
+Keep connected and collaborate with other Risk areas and across the organization, with a special focus on Product, BDI, Data Science and Collections teams.
+
+Location:
+
+Remote / Guadalajara, Jalisco
+
+International/National relocation covered by Kueski.
+
+
+
+By submitting your application clicking the &quot;Submit Application&quot; button, you are accepting our Privacy Notice, available on: https://kueski.com/politicas"
+"1605313726-2568","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Technical Program Manager, LATAM","https://mx.indeed.com/rc/clk?jk=1ecb471cfe1fdc0c&fccid=eca8608f9f563439&vjs=3","Stripe","Publicada 12 de noviembre de 2020
+
+Technical Program Manager, LATAM
+
+Stripe
+
+Mexico City, CDMX, México Full Time
+
+Tecnologías De La Información
+
+Software Engineering
+
+Escolaridad
+
+Ingeniería
+
+Experiencia
+
+5-7 años
+
+Nivel del puesto
+
+Engineer, Manager
+
+
+
+In LATAM, the team is responsible for ensuring Stripe’s products best fit the unique needs of each country. You’ll get to work with engineers in the region to build delightful features that span various parts of the system, as well as working with our business, sales and operations teams to understand and solve our users’ pain points.
+
+
+
+As a technical program manager, you will be responsible for leading complex in-market initiatives, working across a multitude of functions at Stripe: launching new markets and payment methods, ensuring compliance with our regulatory and partner requirements, operationalizing licenses and developing new processes to improve compliance and fraud rates. As an active contributor to Stripe’s global strategy, your impact is felt across the company. You will identify alignment gaps across Stripe’s product portfolio and spend a significant proportion of your time developing the capabilities of the team as a whole.
+
+
+
+As a TPM on the LATAM team, you will lead cross-functional initiatives to develop and bring-to-market tools & infrastructure to help Latin American entrepreneurs start and grow their businesses. This includes bringing Stripe’s existing capabilities to all of Latin America, and developing new products to meet the specific needs of Latin American entrepreneurs and businesses. You’ll be helping to mentor engineering and product managers to maintain scalable organizational processes, and help communicate across a rapidly growing organization.
+
+
+
+You will:
+
+Drive functional and technical delivery of key team-, org-, and company-wide initiatives.
+
+Collaborate with engineering teams to design, scope, and shepherd features.
+
+Create functional specs, project / release plans, and roadmaps.
+
+Own and execute multiple infrastructure software engineering programs simultaneously.
+
+Help drive product decisions to align with higher company initiatives.
+
+Help influence peers / managers and build consensus while dealing with ambiguity.
+
+Guide and manage the usage of agile methodologies to simplify project delivery.
+
+
+
+You may be a fit for this role if you have:
+
+5+ years of software engineering, systems engineering or technical product/program management experience.
+
+Fluency and strong communication skills in either Spanish or Portuguese.
+
+Experience operating autonomously and leading across multiple teams, with stakeholders in different disciplines across time zones.
+
+Consistent track record of shipping products with broad customer impact.
+
+Strong customer service focus, with the ability to communicate and build relationships with highly technical management teams.
+
+Strong analytic and project management skills.
+
+Demonstrated ability to identify and resolve systemic issues.
+
+Interpersonal skills to build relationships, and collaborate with diverse cross-functional teams.
+
+
+
+It’s not expected that any single candidate would have expertise across all of these areas—we’re looking for candidates that are particularly strong in at least one area, and have some interest and capabilities in the others.
+
+
+
+What’s it like to work at Stripe?
+
+
+
+Stripe is helping the internet fulfil its potential as a platform for economic progress by building software tools that accelerate global economic access and technological development. Stripe makes it easy to start, run and scale an internet business from anywhere in the world.
+
+
+
+Stripe is, at its heart, an engineering company. To provide a missing pillar of core internet infrastructure, we hire people with a broad set of technical skills (and from a wide variety of backgrounds) who are ready to take on some of the most challenging problems in the industry – from reliably handling 100M API requests per day, to building adaptive machine learning as a result of years of data science and infrastructure work, and enabling entrepreneurs worldwide to start a global internet business.
+
+
+
+We look at Stripe as a constant work in progress and the same is true of our people; for all of us, we believe the best is yet to come. We’re here to support each other in our curiosity and creativity – which we pursue through thoughtful discussion and knowledge-sharing among a diverse set of peers and colleagues.
+
+
+
+We encourage all engineers to transition teams once every year and a half and also take on short-term projects with other teams across Stripe. This enables engineers to learn how different parts of Stripe work while also establishing stronger ties and cross-pollination between groups.
+
+
+
+We contribute to existing open-source projects and the people working on them, and we release several tools as open-source.
+
+
+
+We want to work in a company of warm, inclusive people who treat their colleagues exceptionally well. The kind of people who are committed to going out of their way to help other Stripes in the short-term and pushing them to improve over the long-term (by helping them to get better at what they do).
+
+
+
+We’re a highly cross-functional organization and view that as part of the fun: we design our space to encourage as much collaboration as possible. We have long tables in the kitchen for a reason (to enable everyone to meet new people and learn from them). We also have a culture of transparency that we carry through to email communication, ensuring that Stripes all around the world have the information they need to make good local decisions.
+
+
+
+In both our products and our people, we aim to reflect, represent and advocate for all of our users, globally. Our users transcend geography, culture and language; what we share, collectively, is a drive to create a fairer, more economically interconnected world."
+"1605313275-2537","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Business Analyst - Financial Verticals","https://mx.indeed.com/rc/clk?jk=86d7b8269292e476&fccid=dfc44f3b8c44a6db&vjs=3","Cisco Systems","We are seeking a Business Analyst leading the Strategic Services Practice Large Deal Methodology Team as part of CX Centers in Customer Experience (CX).
+
+The Strategic Services Engine serves to lead delivery of custom CX Center services, increase partner confidence in CX Centers, shift more work to Centers, incubate innovation to scale, and introduce standardization (repeatability, automations) resulting in outstanding P/L and transition of work to Proactive Services.
+
+More specifically, the Engine scope includes Delivery Strategy (Delivery Methodology, Prioritization, Roadmaps), Demand & Expectation Management, Escalation Management, Performance Management, Continuous Service Improvement, Financial / Cost Management, Relationship Management, and Sales & Marketing Support.
+
+For decades Cisco's vision has been to change the way we work, live, play and learn. The LDM team is extending that vision making it easier, and more profitable, to achieve the forward-thinking changes that customers need now. Come build the new methodology improving CX Centers' strength and make Cisco's largest deals more successful!
+
+The Strategic Services Engine is organized into Lines of Business and the Practice. The lines of business focus on the content. As the Business Analyst, you will:
+
+Complete pre- and post-Sales planning with CX Region leaders/Sales/BDMs including staffing level of effort, min/max cost structures, blue/red/managed service delivery mix
+
+Provide per-deal budget guidance (with timing) to the CX Center Regions, CX Regions, Ops, and Finance
+
+Engage with Vertical Lead, Sales and CX Region and provide guidance on aspects like return on investment, market trends, business proposal structuring standard methodologies etc.
+
+Engage with Vertical Lead and CX Region to understand customer vision and present guidance related to approach methodologies and opportunity assessment.
+
+Define, analyze, simplify and document requirements to map a business problem into a use case. Engage with the SDA to convert the use case into a technical solution.
+
+Assist business functions with data analysis for business/value case development for key strategic initiatives.
+
+Conduct deep analysis of various attributes (e.g., product, technology, sentiment, segment, business entity, customer) to determine key drivers.
+
+Among the qualifications for this role, emphasis is placed on your ability to understand business and technical solutions for a key vertical (one of Government and Utilities; Financials; Healthcare, Manufacturing, Logistics, and Retail; OR Service Provider and Technical Services) and optimize Cisco’s CX Centers ability to deliver those solutions profitably. Who You'll Work With
+
+Cisco CX Centers is force multiplier for Cisco and our partners to simplify digital transformation for our customers through unmatched technical expertise, relevant insights, and relentless automation at global scale
+
+In the CX Center organizational design, there are 3 functions: Regions, Engines, and Foundations. This Business Analyst role is aligned to the Strategic Services Engine. Engines are expected to:
+
+Design, own and implement global delivery methodology for Engine with visibility to regional differences
+
+Own disruption and innovation including business cases to take innovation to scale
+
+Ensure Delivery Readiness for new & changed offers (working with CXPM & BUs)
+
+Actively monitor high quality service delivery and initiate process/tooling improvements Who You Are
+
+Experienced technical expert (Solution Architect or Technical Leader)
+
+Naturally inquisitive
+
+Strong communicator
+
+Willing to innovate
+
+
+
+Influential Our minimum requirements are the following:
+
+You've achieved a Bachelor degree; Masters’ preferred.
+
+Have 5+ years’ experience in designing cost efficient solutions to resolve customer challenges and ensure a good ROI.
+
+You have a demonstrated ability to negotiate and influence actions of team members outside of function for improved team and service performance
+
+You can identify, prioritize and deliver measurable results using frameworks and sound business practices, understanding cross-functional dependencies
+
+You are analytical with a strong ability to translate insights into recommendations and actions.
+
+Strong business and technical writing skills, coupled with strong presentation abilities
+
+You love teamwork, collaboration and have well-developed project management skills
+
+You possess advanced Leadership Skills including leading by influence Why Cisco
+
+#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here’s how we do it.
+
+We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (30 years strong!) And only about hardware, but we’re also a software company, security company, a blockchain company, and a AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!
+
+But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)
+
+Day to day, we focus on the give and take. We give our best, we give our egos a break, and we give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and we difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward.
+
+So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us!
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
+"1605313386-2547","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Data Science Manager","https://mx.indeed.com/company/Teleperformance/jobs/Data-science-manager-1e8683aead11fe83?fccid=02e72612c7c0d1ce&vjs=3","Teleperformance","Job Description Work effectively with stakeholders to understand ambiguous business problems, assess data needs, develop/maintain best-suited models and help/strategize deploying them in production.Develop and evolve applications of advanced analytics and predictive modeling by incessantly bringing external best practices and trends into an existing team of data scientistsProvides technical expertise and support to persons inside and outside of the department.QualificationsBachelor’s degree, desirable in Engineering, Math, Statistics, Computer Science or Economics (Required).Master’s in data science (Required)Bilingual 100%. Excellent communication skills. Storytelling.5+ years of experience managing large volumes of data.3+ years of experience managing data science teamsStrong Data Science ModelingProject management skills (agile desirable)Experience operationalizing machine learning algorithmsAdvanced Python, R, SASExperience in business case buildingExperience in Data ArchitectureUnderstanding of cloud platforms like Google, Azure or AWSExperience working with and creating databases SQLJob Types: Full-time, PermanentSalary: $50,000.00 - $55,000.00 per monthSchedule:Monday to FridayExperience:Managing People: 3 years (Preferred)Python and R : 5 years (Preferred)Data Modeling : 5 years (Required)Education:Master's (Preferred)Language:English (Preferred)Work Remotely:Temporarily due to COVID-19"
+"1605313640-2562","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Communications Manager - Americas Communications Org in Supp...","https://mx.indeed.com/rc/clk?jk=3bc23f4e9cb69b03&fccid=dfc44f3b8c44a6db&vjs=3","Cisco Systems","What You'll Do
+
+As a communications manager in the Americas Communications Organization you will leverage your keen sense for the balance between short-term action and big-picture thinking to create innovative, imaginative, authentic communications that drive growth in Americas Sales and specifically, the Latin American segment.
+
+
+
+Detailed responsibilities include:
+
+
+Executive Thought Leadership (25%)
+
+o Executive correspondence
+
+o Thought leadership platform development and execution
+
+o Internal and external presentations
+
+o Support major events (Cisco Live, Partner Summit, Impact, etc.)
+
+o Drive executive’s social media platforms
+
+o Write blogs
+
+
+Internal/Employee (50%)
+
+o Create detailed communications calendar and cadence
+
+o Craft earnings announcements
+
+o Execute employee all hands
+
+o Create/write employee newsletters
+
+o Write organizational announcements and own cascade timing
+
+o Create and edit videos using the OneMob platform
+
+
+Change Management/Strategic Communications (25%)
+
+o Communications planning & messaging
+
+
+
+Who You'll Work With
+
+The Americas Communications team works in support of the Americas Sales organization. In this role you will support the LATAM business and its sales leaders. You will be a part of an incredibly talented group of communicators who truly care about each other.
+
+
+
+We Are Cisco
+
+#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here’s how we do it.
+
+We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (30 years strong!) and only about hardware, but we’re also a software company. And a security company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!
+
+But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)
+
+Day to day, we focus on the give and take. We give our best, we give our egos a break and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward.
+
+So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool."
+"1605313823-2576","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Advanced Ruby on Rails Developer Remote","https://mx.indeed.com/company/SHASTIC-INC/jobs/Advanced-ruby-rails-developer-remote-0e056600fb2d18a6?fccid=92b0338ab0beaaf4&vjs=3","Shastic","Shastic is building a robotic automation platform for lending named Elle that helps bankers connect with loan applicants and new account holders a lot faster without doing any work, so they can fund and close loan applications in hours, not days.Shastic makes extensive use of AWS, Docker, Serverless Computing, Ruby on Rails, Javascript, MySQL, Python and Machine Learning within our infrastructure. We use tools like CodeBuild and CodePipeline to streamline and automate deployments and CloudWatch to see what’s going on under the hood.WITHIN 1 MONTH, YOU’LL:Learn about our cloud architecture and code practices as you work to complete minor upgrades across multiple microservices that will give you a good understanding of our entire lending automation platform.WITHIN 3 MONTHS, YOU’LL:Integrate Elle with 2 of the top online lending platforms in the U.S. to automate loan processing workflows.WITHIN 6 MONTHS, YOU’LL:Integrate our machine learning microservices (ElleAI) into our Elle platform in order to request, collect and syndicate loan documents given the current state of a loan in its lifecycle to give Elle and our clients a new superpower: Collecting documents automatically.Expand Elle’s functionality and cross-platform integrations in order for Elle to work across all industry-leading lending platforms in the U.S..We are a high-stamina team, we work as a close unit. To be successful in our team, you have to be comfortable with over-communicating, since our entire team is remote. That means responding to any contact from anyone in the team in a few seconds (within work hours) and making sure that everyone is aligned on response times and expectations.The person we are looking for is someone we can count on when the stakes are high and the entire team has to put in extra hours to meet our goals. Attention to detail is a must to succeed in our team as oftentimes the risks involved in our daily tasks can have legal and financial implications if mishandled.We value well written, factorized tests above all due to the high stakes involved in working with U.S. banks and regulated financial institutions. This person will work closely under the CEO.Benefits we offer:6 paid vacation days a year.6 paid sick days a year.Competitive salary.Flexible schedule.The ability to work from anywhere in the world, forever.Job Type: Full-time, PermanentLocation: RemoteSalary: $2,400 - $5,600 USD/month (Based on proven experience)Job Types: Full-time, PermanentPay: $51,000.00 - $120,000.00 per monthExperience:Ruby on Rails: 5 years (Required)Language:English (Required)Work Remotely:Yes, always"
+"1605313332-2542","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Machine Learning and FPGA Student","https://mx.indeed.com/rc/clk?jk=28c38296e8e5906a&fccid=f1374be6a45f4b8a&vjs=3","Intel","Job Description
+
+
+The Silicon and System Prototype Lab (SSPL) group at Intel Labs is seeking a motivated graduate student who is interested in the following areas: machine learning and AI accelerator development with CPU, VPU, GPU, and FPGA. As an intern, you will work with the team to research machine learning technique for medical images from ideas to concept and prototyping through development. You will have an opportunity to make an impact on future AI hardware and software design for health and life science applications.
+
+
+
+Your responsibilities will include but not be limited to:
+
+� Develop a Proof-of-Concept (PoC) prototype system which involves Machine Learning based image recognition, classification, and localization for medical images
+
+� Train large series of images, classify the images, and test against the ground truth
+
+� Develop FPGA IPs with MathWorks HDL coder and Verilog
+
+
+Qualifications
+
+
+Currently enrolled in a graduate (Master's or above) program in electrical engineering, computer science or a related discipline
+Minimum Qualifications:
+
+� Experience with Python, C/C++, and Matlab
+
+� Experience with AI software toolkits such as OpenVINO, Tensorflow, and PyTorch
+
+� Digital Circuit Design
+
+� Hands-on experience with FPGA
+
+
+Preferred Qualifications:
+
+� Experience with development of AI algorithms (ex: Recurrent Neural Networks and Matlab AI Toolboxes)
+
+� Ability to train data for neural networks and perform transfer learning
+
+� Experience with version control practices and tools (git)
+Inside this Business Group
+
+
+Intel Labs is the company's world-class, industry leading research organization, responsible for driving Intel's technology pipeline and creating new opportunities. The mission of Intel Labs is to deliver breakthrough technologies to fuel Intel's growth. This includes identifying and exploring compelling new technologies and high risk opportunities ahead of business unit investment and demonstrating first-to-market technologies and innovative new usages for computing technology. Intel Labs engages the leading thinkers in academia and industry in addition to partnering closely with Intel business units."
+"1605313813-2575","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","HR Business Partner","https://mx.indeed.com/rc/clk?jk=4a04e921014933e5&fccid=fcc128f18b99c74b&vjs=3","AlignTech","Join a team that is changing millions of lives.
+
+
+
+Transforming smiles, changing lives
+
+
+At Align Technology, we believe a great smile can transform a person’s life, so we create technology that gives people the confidence to take on whatever’s next. We revolutionized the orthodontic industry with the introduction of the Invisalign system, and we have never lost sight of that spirit of innovation. Our diverse and collaborative teams are constantly pushing the boundaries of what’s possible.
+
+
+Ready to join us?
+
+
+About this opportunity
+This is a great opportunity for a HR professional who is looking to build their HR career in a successful and growing company. The HR business partner position is responsible for aligning business objectives with employees and management in designated business units. The position serves as a consultant to management on human resource-related issues. The successful HRBP acts as an employee champion and change agent. The role assesses and anticipates HR-related needs. The HR Business Partner will be responsible for duties associated with the full employee lifecycle in the areas of talent management, organizational effectiveness, organization design, employee relations and compensation for an assigned group.
+
+
+In this role, you will…
+HR business partner for Align commercial organization in Mexico, Chile, Colombia, Argentina, Peru, Panama and Costa Rica.
+Lead talent processes including org design, culture and environment, onboarding, talent management, development planning and termination processes for respective client groups
+Analyzes trends and metrics in partnership with the HR group to develop solutions, programs and policies.
+Manages and resolves complex employee relations issues. Conducts effective, thorough and objective investigations.
+Respond to employee requests and inquiries and when necessary, direct employees to relevant policies or documentation.
+Partner with employees and managers regarding HR issues, HR processes and guidelines.
+Partner with managers in career planning, performance management, coaching, data analysis, compensation and rewards, employee relations, talent management, and strategic development
+Execute Align’s human capital strategy surrounding organizational design, leadership, capabilities and culture.
+In support of an organization’s talent management strategy, work with the business in order to close gaps via training and/or developmental opportunities.
+Represent the Human Resources function with cross-functional teams on company-wide initiatives and projects.
+Work in partnership with other areas of HR such as C&B, Talent Acquisition, O&TD to develop strategies, policies and execution of end-to-end solutions.
+Participate in and/or lead miscellaneous projects and programs as needed.
+Build relationships with business partners in other functions to provide integrated strategic solution
+Lead implementation of HR initiatives that solve business problems.
+Develop a deeper understanding of the business unit’s strategy and challenges.
+Apply business fundamentals and principles to inform solutions to talent challenges in your business unit.
+Lead quarterly talent reviews for the assigned employee group.
+Proactively reach out to experts in your function for their advice on specific talent management challenges you are facing.
+Develop best practice solutions to address talent challenges.
+Build a thorough understanding of overall business strategy and operations.
+Ensure the talent strategy balances organizational needs with business unit specific needs.
+Connect with peers across corporate functions , particularly in Strategy, Finance, Marketing and Business Development, monthly to share updates on organizational and functional strategy.
+Develop a deeper understanding of HR analytics and metrics that measure the business and talent impact of HR interventions.
+Apply judgment to data to accurately interpret findings. Adopt a data and insight-based approach to supporting your line clients.
+Identify innovative HR practices to address business unit talent challenges
+Proactively address potential conflicts.
+Strong problem-solving skills to design speedy and innovative solutions.
+Forecast talent challenges to design effective solutions.
+
+
+In this role, you’ll need …
+
+
+10+ years of Human Resources experience in a fast paced, professional environment
+BA/BS or equivalent experience; MBA and/or PHR certification desire
+
+
+EDUCATION and/or EXPERIENCE
+Solid experience in employee life cycle management from orientation to termination
+Strong problem-solving and excellent interpersonal and verbal/communication written communication skills
+Excellent collaboration skills and the ability to influence without authority
+Exposure to compensation programs such as merit, bonus, and stock programs
+General knowledge of employment laws and practices and experience dealing with employee relations issues and investigations.
+Ability to multitask effectively and prioritize work based on demand; highly organized and have strong problem solving skills
+Results driven, self- starter with high attention to detail and sense of urgency.
+Must be highly customer-oriented and have a successful track interfacing with employees.
+Fluent in English and Spanish.
+
+
+Sound like a good fit?
+
+
+Great! Click the ""Apply"" link to let us know you are interested. Not the right fit? Don’t worry, Align is quickly growing so we are creating more opportunities to expand our Align family. Please consider joining our Talent Network to receive notifications about future jobs or sharing this opportunity with others in your network.
+
+
+About Align
+
+
+Align Technology is a publicly traded medical device company that is transforming smiles and changing lives. Our global team of talented employees develop innovative technology, tools and treatment options to help dental professionals worldwide achieve the clinical results they expect. Our digital ecosystem combines the power of technology to create beautiful smiles through the integration of AI and machine learning, digital imaging and visualization, biomechanics and material science to develop the Invisalign system, the most advanced clear aligner system in the world; iTero Intraoral Scanners and OrthoCAD digital services. Did you know? Align is the world’s largest manufacturer of custom 3D-printed materials.
+
+
+By joining Align, you will be part of a global, fast-growing company in one of the most dynamic industries. Great people, innovative technologies, and meaningful work – these are just some of the things employees say make Align Technology a great place to work.
+
+
+We respect your privacy. Please review our Applicant Privacy Policies for additional information.
+
+
+Global Diversity Statement:
+At Align, we believe in the power of a smile, and we know that every smile is as unique as our employees. As we grow, we will continue building a workforce of diverse cultural backgrounds and life experiences and fostering a culture of open-mindedness and compassion for all our employees. We live our company values by promoting healthy people and healthy communities. All with the intent of changing millions of lives, one unique smile at a time."
+"1605313843-2578","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Remote Javascript (Vue) Developer","https://mx.indeed.com/company/SHASTIC-INC/jobs/Remote-javascript-developer-1ff1446888225dc8?fccid=92b0338ab0beaaf4&vjs=3","Shastic","Shastic is building a robotic automation platform for lending named Elle that helps bankers connect with loan applicants and new account holders a lot faster without doing any work, so they can fund and close loan applications in hours, not days.Shastic makes extensive use of AWS, Docker, Serverless Computing, Ruby on Rails, Javascript, MySQL, Python and Machine Learning within our infrastructure. We use tools like CodeBuild and CodeDeploy to streamline and automate deployments and CloudWatch to see what’s going on under the hood.WITHIN 1 MONTH, YOU’LL:Turn Shastic’s core messaging service “Elle” into a Chrome Extension and set it up as a new microservice called “ElleX” using Vue.js and lots of testing.WITHIN 3 MONTHS, YOU’LL:Port some of our core robotic automation functionality from our serverless “Chimera” microservice (which runs on AWS Lambda) into the new “ElleX” Vue.js app.Integrate the new “ElleX” Vue.js app with 2 of the top online lending platforms in the U.S. to automate loan processing workflows.WITHIN 6 MONTHS, YOU’LL:Integrate our machine learning microservices (ElleAI) for predicting the next best actions to take at each point in the lifecycle of a loan into ElleX to give it (and our clients) superpowers.Expand ElleX’s functionality and cross-platform integrations in order to make ElleX an omni-channel tool.We are a high-stamina team, we work as a close unit. To be successful in our team, you have to be comfortable with over-communicating, since our entire team is remote. That means responding to any contact from anyone in the team in a few seconds (within work hours) and making sure that everyone is aligned on response times and expectations.The person we are looking for is someone we can count on when the stakes are high and the entire team has to put in extra hours to meet our goals. Attention to detail is a must to succeed in our team as oftentimes the risks involved in our daily tasks can have legal and financial implications if mishandled.We value well written, factorized tests above all due to the high stakes involved in working with U.S. banks and regulated financial institutions. This person will work closely under the CEO.Benefits we offer:6 paid vacation days a year.6 paid sick days a year.Competitive salary.Flexible schedule.The ability to work from anywhere in the world, forever.Job Type: Full-time, PermanentLocation: RemoteSalary: $2,400 - $4,800 USD/month (Based on proven experience)Job Types: Full-time, PermanentPay: $50,000.00 - $100,000.00 per monthExperience:JavaScript: 5 years (Required)Vue: 1 year (Preferred)Language:English (Required)"
+"1605313371-2546","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Continuous Improvement Analytics Manager","https://mx.indeed.com/rc/clk?jk=005d38e0290d2cb2&fccid=dacddaa4d49537d8&vjs=3","Johnson Controls","Continuous Improvement Analytics Manager
+What you will do:
+The Continuous Improvement (CI) Analytics Manager plays an active role in developing the technical infrastructure, enhancing continuous process improvement processes, modeling business benefits, and structuring data from legacy/new sources for monitoring accomplishment of business objectives.
+
+
+This individual is trained in PowerApps, SharePoint O365, Azure, relational databases, data dictionaries, business intelligence, and advanced statistical techniques/concepts. Works with Leaders to enable the CI strategy through data analytics, data availability, and overall business data strategy.
+
+
+How you will do it:
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques, and go-to-market and business strategies
+Assess the effectiveness and accuracy of new data sources and data gathering techniques
+Develop custom data models and algorithms to apply to data sets
+Coordinate with different functional teams to implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Assist teams in developing data strategy needed to enable Lean Six Sigma Roadmap in accomplishing strategic objectives
+Directly supports BSNA to achieve strategic deployment objectives by providing data support for on-site workshops, kaizen events and lean transformation processes
+Identify and share best data practices across the different locations in Region and throughout BSNA
+Work with IT to enhance data roadmap, enhancements required in IT systems, and automate manual processes
+Work with VP/GM of Domains, RVPs, and other functional leaders as a “data leader” to define current state situation in data, assess gaps in data, and assist in development of the future state of data needs in line with strategic plans
+Thinks beyond the day-to-day, taking a long-term, big-picture view of the business and what data will be needed
+Aligns data processes to work with those of customers
+Facilitates effective collaboration among coworkers and external partners
+Involves others in making decisions on behalf of the group
+
+What we look for:
+
+
+Strong problem-solving skills with an emphasis on data strategy, queries, and data availability
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc
+Coding knowledge and experience with several languages: C, C++, Javascript
+
+Johnson Controls does not request pregnancy or HIV testing as a requirement for admission, permanence or promotion."
+"1605313764-2571","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Inside Sales Executive","https://mx.indeed.com/rc/clk?jk=b0874003582a00ff&fccid=087aaf21c7121482&vjs=3","SoftwareONE","Why SoftwareONE?:
+
+Today SoftwareONE is a global leader in software and cloud portfolio management and is modernizing the way organizations budget and optimize their global IT spend from on-premises to the cloud.
+
+Our 5,000 technology experts located across 80+ countries work on over a 1,000 Technology Projects globally. We provide customers with the right advice on their Technology Roadmap towards the cloud or optimizing the Business-outcome of a cloud-based landscape. With our PyraCloud platform, applying machine learning, delivering the visibility, insight, automation and control customers demand to maximize their software investments.
+
+In tandem, our Software Lifecycle Management (SLM) services provide the methodology and framework to optimize the underlying IT infrastructure, accelerate cloud adoption and minimize compliance risk.
+
+
+With our dynamic leadership and driven business strategy SoftwareONE is one of the fastest growing technology solution providers in the world with elite partnerships with Microsoft, AWS, Adobe, IBM, VMware, Oracle, Citrix, Red Hat, Trend Micro and many more.
+
+The role:
+
+As a responsible, competent and reliable contact person, you will be responsible for the internal handling of all inquiries from SoftwareONE clients in Central America and Caribbean.
+
+Caring for clients, drawing up quotations, order processing as well as closely collaborating with the Account Manager will be part of your core tasks.
+
+
+As an expert in the field of our publishers, you have the opportunity to acquire in-depth know-how on products, licensing models and manufacturers’ strategy. Participate in workshops and training sessions and thus contribute to the development of knowledge within our company.
+What we need to see from you:
+Bachelor’s degree from four-year College or university.
+1-3 years professional sales experience preferred but not required.
+Good German and English language proficiency.
+Customer service experience preferred.
+Highly motivated and results oriented; entrepreneurial spirit.
+Detail oriented with ability to break down projects into smaller tasks.
+General understanding of technology solutions.
+Proficient in and knowledgeable with Microsoft is licensing programs and product stack.
+Knowledge of:
+Operational policies and procedures.
+Customer service and sales probing techniques.
+Developing and maintaining long-term business relationships.
+Ability to:
+Analyse data, identify trends and develop recommendations for improvement.
+Research and solve complex, multi-faceted problems.
+Work independently and show initiative.
+Maintain a positive attitude.
+Handle large volumes of work and meet tight deadlines.
+Adapt to and embrace change in a rapidly changing environment.
+Lead and mentor by example.
+Maintain and promote good client relations, maintain confidentiality of sensitive information.
+Skilled in:
+Relationship building.
+Verbal and written communication.
+Problem solving.
+Researching customer and product information.
+Planning, scheduling, and organizing work.
+Multitasking and time management.
+#LI-VS1
+
+What you should really know about us.:
+
+Strip away everything. Strip away our brand, strip away our buildings, strip away our offices. What are we left with? Our people. This is what makes SoftwareONE successful.
+
+
+Passionate people who live and breathe our values every day, who delight our customers, every day, and who go above and beyond, every day. Our culture is unique, and I believe that having the right people, and empowering them to succeed, is the absolute key to our success.
+
+Patrick Winter, Founder.
+What we expect from our employees:
+
+Success at SoftwareONE is not defined by what you do for yourself, but by what you deliver for our customers, the business and for the employees around you. SoftwareONE employees are energized, agile and are laser focused on delivering world class Customer Satisfaction and results. Our leaders motivate and inspire their teams and provide a working environment that delivers incredible levels of Employee Satisfaction. We are Humble, have a very high degree of Integrity and are simply not interested in politics.
+
+
+Our leaders operate with a high levels of Discipline but are able to work at Speed manage change in a global economy.
+
+
+“SoftwareONE is an equal opportunity employer. With employee satisfaction as one of our core values, we are passionate about diversity and are committed to creating an inclusive environment for all of our employees. We want every employee to have the greatest experience of their career.”"
+"1605313591-2559","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Staff Engineer, LATAM","https://mx.indeed.com/rc/clk?jk=17a47257a2b49053&fccid=eca8608f9f563439&vjs=3","Stripe","Publicada 12 de noviembre de 2020
+
+Staff Engineer, LATAM
+
+Stripe
+
+Mexico City, CDMX, México Full Time
+
+Software Engineering
+
+Escolaridad
+
+Ingeniería
+
+Nivel del puesto
+
+Engineer
+
+
+
+Build the core of Stripe products, services and APIs in spectacularly robust fashion.
+
+
+
+Stripe’s core mission is to reduce the barriers faced by large and emerging businesses around the world by abstracting away the complexities of payments. The LATAM team is responsible for building the payments products & infrastructure needed to launch new markets and process payments successfully throughout Latin America. We are building a thriving product and engineering presence complementing and extending the reach of our current offices in Mexico City, São Paulo and the U.S.
+
+
+
+We’re looking for a Staff Engineer to drive large technical projects across LATAM that lead to successful business outcomes by shipping delightful products. You will need to set the technical direction across a variety of projects and initiatives while also mentoring and growing others on the team.
+
+
+
+As the Staff Engineer for LATAM, you will:
+
+Research, design, and build solutions that define the future of the financial infrastructure we’re building in LATAM.
+
+Develop hypotheses for our products in LATAM, and iterate on solutions and metrics to validate them.
+
+Be directly responsible for the technical strategy, and its outcomes, for projects you lead.
+
+Collaborate cross-functionally throughout Stripe to troubleshoot challenges, remove bottlenecks, and identify new opportunities for growth.
+
+Represent the Global LATAM engineering team in forums where strategic decisions are made, such as - API Design or Production Readiness reviews.
+
+Set the pace, and lead by example demonstrating how great software should be written for Stripe as a whole.
+
+Contribute to codebases in Ruby, Java, Scala, and JavaScript.
+
+Advise Stripe’s leadership team on key technical considerations related to the future of payments in Latin America.
+
+Measure the effectiveness of our engineering work, and use data to drive decisions to help our users and their customers.
+
+Teach and mentor the next generation of technical leaders at Stripe.
+
+
+
+You may be a fit if you:
+
+Have a strong technical background, including 8+ years of experience with system architecture and API design at companies known for building great products.
+
+Understand user funnels, hypothesis driven product development and approach solutions rigorously.
+
+Are fluent in English and either Spanish or Portuguese, and can communicate effectively in both.
+
+Have been a Staff, Principal, or Distinguished Engineer at a top tier company.
+
+Have served as the technical lead for a team of engineers and can demonstrate broad technical leadership.
+
+Have owned the technical roadmap for a business area.
+
+Can take highly ambiguous challenges, drive them towards clarity and deliver solutions with confidence.
+
+Listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind.
+
+Work well cross-functionally and your co-workers across all teams trust you.
+
+Are often cited as the inspiration for engineers that join your teams. Even senior engineers feel that they’re able to learn from you.
+
+Payment experience is a plus but not at all a requirement.
+
+What’s it like to work at Stripe?
+
+
+
+Stripe is helping the internet fulfill its potential as a platform for economic progress by building software tools that accelerate global economic access and technological development. Stripe makes it easy to start, run and scale an internet business from anywhere in the world.
+
+
+
+Stripe is, at its heart, an engineering company. To provide a missing pillar of core internet infrastructure, we hire people with a broad set of technical skills (and from a wide variety of backgrounds) who are ready to take on some of the most challenging problems in the industry – from reliably handling 100M API requests per day, to building adaptive machine learning as a result of years of data science and infrastructure work, and enabling entrepreneurs worldwide to start a global internet business.
+
+
+
+We look at Stripe as a constant work in progress and the same is true of our people; for all of us, we believe the best is yet to come. We’re here to support each other in our curiosity and creativity – which we pursue through thoughtful discussion and knowledge-sharing among a diverse set of peers and colleagues.
+
+
+
+We encourage all engineers to transition teams once every year and a half and also take on short-term projects with other teams across Stripe. This enables engineers to learn how different parts of Stripe work while also establishing stronger ties and cross-pollination between groups.
+
+
+
+We contribute to existing open-source projects and the people working on them, and we release several tools as open-source.
+
+
+
+We want to work in a company of warm, inclusive people who treat their colleagues exceptionally well. The kind of people who are committed to going out of their way to help other Stripes in the short-term and pushing them to improve over the long-term (by helping them to get better at what they do).
+
+
+
+We’re a highly cross-functional organization and view that as part of the fun: we design our space to encourage as much collaboration as possible. We have long tables in the kitchen for a reason (to enable everyone to meet new people and learn from them). We also have a culture of transparency that we carry through to email communication, ensuring that Stripes all around the world have the information they need to make good local decisions.
+
+
+
+In both our products and our people, we aim to reflect, represent and advocate for all of our users, globally. Our users transcend geography, culture and language; what we share, collectively, is a drive to create a fairer, more economically interconnected world."
+"1605313716-2567","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Machine Shop Supervisor","https://mx.indeed.com/rc/clk?jk=af87ad4ec3d42af4&fccid=87f38351bd29de24&vjs=3","Eaton","Eaton's Interconnect Technoloies Division is currently seeking a Machine Shop Supervisor to join our team. This position is based at our Nogales facility.
+The Molding Supervisor is responsible for maintain the functions of preventive and corrective maintenance in the molds, solving problems in machining, modifying the molds, dies and tooling, ensuring compliance with product and process specifications, maximizing efficiency in the use of resources and positively impacting the operation indicators such as Quality, Service and Cost.
+Some activities related with the position will be:
+Mold Manufacturing (Flow Analysis)
+Repair and modification of molds (Ability to diagnose failures in molds, Problem analysis and decision making)
+Manufacture of special parts. (Parts of machines and / or molds).
+Guarantee the optimal conditions of tooling (molds) to ensure that they comply with the parameters required by the client.
+CNC machine programming
+Use of machine and tool workshop equipment (CNC Mill, Lathe, EDM, Surface grinder, EZ tracker, oven treatment, blade cutters, ultrasonic, sand blast, engraving etc.)
+Establish strategies / parameters for the utilization of team capabilities
+Preventive, corrective and predictive maintenance in molds
+#LI-VIT1
+Qualifications
+Required (Basic) Qualifications:
+Mechanical Engineering or related
+Understanding mechanical drawings (GD&T Certification)
+5 Years of experience in a similar position
+Advanced English (reading, comprehension and conversational)
+Preferred Qualifications:
+French desired
+Visa to travel to the United States
+Use of machine and tool workshop equipment (CNC Mill, Lathe, EDM, Surface grinder, EZ tracker, oven treatment, blade cutters, ultrasonic, sand blast, engraving etc.)
+We make what matters work. Everywhere you look—from the technology and machinery that surrounds us, to the critical services and infrastructure that we depend on every day—you’ll find one thing in common. It all relies on power. That’s why Eaton is dedicated to improving people’s lives and the environment with power management technologies that are more reliable, efficient, safe and sustainable. Because this is what matters.
+
+We are confident we can deliver on this promise because of the attributes that our employees embody. We’re ethical, passionate, accountable, efficient, transparent and we’re committed to learning. These values enable us to tackle some of the toughest challenges on the planet, never losing sight of what matters.
+Job: Engineering
+
+
+Region: Latin America
+
+Organization: AER ITD
+
+
+Job Level: Team Leader/Supervisor
+
+Schedule: Full-time
+
+Is remote work (i.e. working from home or another Eaton facility) allowed for this position?: No
+
+Does this position offer relocation?: Relocation from within hiring country only
+
+Travel: Yes, 10 % of the Time"
+"1605313793-2573","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Cientifico de Datos - Experiencia en reconocimiento de imáge...","https://mx.indeed.com/rc/clk?jk=239981f70a55229c&fccid=942c4ec626ccb63b&vjs=3","Hireline","Para proyecto, empresa líder en México en investigación de mercado para puntos de venta.
+
+Experiencia:
+· 5 años comprobables en ciencia de datos y machine learning con implementación en un entorno de ejecución.
+· 1año de Experiencia en reconocimiento de imágenes. INDISPENSABLE
+Requisitos
+· Ingeniería en Sistemas, ciencias de la computación, físicos-matemáticos o Áreas afines.
+· Amplia experiencia en Python y sus bibliotecas de ciencia de datos como TensorFow, Keras, etc.
+· Certificación en alguna metodología Agile (Scrum, DevOps, etc.) Deseable, pero si manejo.
+· Conocimientos en PHP, JavaScript, MySQL, PGSQL, SQL Server, JQuery, HTML5, CSS, LESS, GIT LAB GITHUB Selenium, Jenkins, Ansible o Puppet, Dockers, GitHub, Confluence, Kubernetes (deseables).
+· Manejo de Frameworks YII, BOOSTRAP, MATERIALICE, Embeddables, PAjax, Textelements, JQuery, Varias librerías de Survey
+· Fuertes habilidades analíticas relacionadas con el aprendizaje automático y la visión por computadora.
+ Inglés Avanzado
+
+Actividades
+· Crear y mejorar los modelos de reconocimiento de imágenes actuales.
+· Realizar pruebas y mantenimiento de los modelos de reconocimiento de imágenes
+· Crear herramientas que permitan automatizar procesos
+· Generar y entregar soluciones de Machine learning con alta precisión técnica.
+· Diseñar procesos que permitan un flujo desde la integración de datos hasta la implementación del modelo.
+· Realizar patrones de diseño y arquitectura (Modelo, vista y controlador).
+· Uso de pHPUniT y ZElenium para test.
+
+Competencias :
+Control de procesos-ejecución
+Trabajo en equipo
+Comunicación
+Análisis del problema
+Resolución de problemas
+Trabajar bajo presión"
+"1605313306-2540","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","LATAM Markets Analyst Program, Mexico","https://mx.indeed.com/rc/clk?jk=9801774e92152bbc&fccid=ed01256a08c151a4&vjs=3","Citibanamex","Publicada 05 de noviembre de 2020
+
+LATAM Markets Analyst Program, Mexico
+
+Citibanamex
+
+Mexico City, CDMX, México Full Time
+
+Mercados De Deuda
+
+Mercados De Capitales
+
+Escolaridad
+
+Licenciatura trunca, Licenciatura terminada
+
+Experiencia
+
+Recién egresado
+
+Nivel del puesto
+
+Analyst
+
+
+
+You're the brains behind our work.
+
+You’re ready to bring your knowledge from the classroom to the trading floor, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.
+
+Citi is looking for full-time Analysts to join the Markets and Securities Services business in Latin America. Our Markets Analyst Program is unlike any other; it is a highly competitive and selective program that gives you the opportunity to actively participate in the research, trading, and marketing of securities and financial products to our corporate and institutional client base.
+
+
+
+Areas of opportunity within the program include:
+
+
+Trading
+Balance Sheet Management
+Corporate & Government Markets Product Offering
+Equities
+Security Services
+Financial Institution Markets Product Offering
+
+Your time here will look something like this...
+
+You may be required to fulfill regulatory requirements that apply to the Markets area in your working country. Once this is completed, you will be given the opportunity to rotate across two different areas allowing you to develop a broader knowledge base and network within the firm. You will perform a variety of functions, adding more value as you develop. We believe our Analysts should be fully educated on all aspects of the markets. Therefore, if you spend your first rotation in Sales, you may want to switch to the Trading side of the business. We give you the opportunity to do so. Placement occurs when you are matched with an appropriate job upon completion of the program. Our goal is to ensure that every Analyst is placed in a position that best pairs his or her skill sets and personal interests with the needs of the firm.
+
+
+
+We provide you with the knowledge and skills you need to succeed.
+
+All Markets Analysts will attend a 4 week training program, consisting of entry-level orientation and classroom training taught by skilled external consultants, along with selected professionals with industry/product expertise.
+
+ur training is designed to cover all fundamental aspects needed for the Markets Analyst role.
+
+
+
+We want to hear from you if...
+
+
+You currently maintain a minimum GPA of 3.3 or equivalent
+You are currently pursuing a Bachelor’s degree (graduating in Dec 2020 or July 2021), or are a recent graduate within the last two years.
+You are creative in solving problems and are intellectually curious
+You are detail oriented, hard-working and diligent
+You are enthusiastic, quick-thinking and able to juggle multiple tasks simultaneously
+You are confident and comfortable with clients and articulate in oral and written communication
+You are focused on achieving the group and client objectives
+You are fluent in English and Spanish * You have a sincere interest in the Latin America market
+
+Who we think will be a great fit...
+
+Citi is a leading global bank and a premier technology and innovation-focused organization. As our business becomes more and more digital, we’re looking for solutions-oriented candidates with strong technical skills who can bring fresh ideas about how we can better use information, artificial intelligence, natural language processing and optimal UI designs to transform our global markets business. As a Markets Analyst, you will be trained in the fundamentals of the markets sales & trading functions as well as innovation and machine learning concepts. Moreover, you will spend time working on several sales & trading desks and perform work critical to our franchise, with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our Markets Analysts to be versatile, display leadership qualities and be enthusiastic to take on new challenges and opportunities across our front-to-back processes as we continue to push our technology forward. We value diversity, and so should you. We’ll be looking for talented people with bachelor’s degrees from a variety of universities"
+"1605313863-2580","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Software Engineer - Smart Platform","https://mx.indeed.com/rc/clk?jk=aefb323c9e95298e&fccid=cd22d01053af7669&vjs=3","Oracle","Software Engineer - Smart Platform-20000XU4
+
+
+
+Applicants are required to read, write, and speak the following languages: English, Spanish
+
+Preferred Qualifications
+
+
+Would you like to be part of a Platform team that focuses on empowering developers to deliver delightful and intelligent user experiences? Are you passionate about building an intelligent platform ground up across all layers of application framework, search, and services? If yes, come join our team. We are looking for highly motivated and hardcore software engineers to join our start-up team.
+
+
+About the team
+
+
+The Application Developer Platform team at Oracle provides the tools, frameworks, and cloud services that are used in our market-leading Oracle Cloud Applications (SaaS). This platform is not only for Oracle developers but is the same development platform used by customers to configure and extend their SaaS, as well as create their own bespoke cloud applications. The team currently engineers a number of cloud platform services, including Oracle Visual Builder (low-code JavaScript dev tool), Oracle Developer (dev environment), and Oracle Search.
+
+
+Skills and Qualifications
+Are proficient (i.e., able to complete coding projects with no assistance) in two or more of the following programming languages:
+ Java, Python, JavaScript, CSS, HTML, SQL, Scala
+
+
+
+Have completed coursework, projects, internships, and or research in four or more of the following:
+ Algorithms
+
+ Artificial Intelligence
+
+ Big Data
+
+ Data Structures
+
+ Database
+
+ Machine Learning
+
+ Object-Oriented Programming
+
+ Software Programming
+
+ Web Development
+
+ Micro-Services Architecture
+
+ Container Architectures (e.g., Docker, Kubernetes)
+
+ User Interface Design
+
+
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+
+
+As a member of the software engineering division, you will apply basic to intermediate knowledge of software architecture to perform software development tasks associated with developing, debugging or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and occasionally suggest improvements to the architecture.
+
+
+
+Duties and tasks are standard with some variation; displays understanding of roles, processes and procedures. Performs moderately complex problem solving with assistance and guidance in understanding and applying company policies and processes. BS degree or equivalent experience relevant to functional area. 1 year of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
+"1605313741-2569","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","ADAS Algorithm Development Engineer Sr.","https://mx.indeed.com/rc/clk?jk=c92e2d2c0e1751a4&fccid=12aa2da60fa1c62f&vjs=3","Continental AG","Tasks
+
+The Sensing and Driving Functions Algorithm Engineer Sr. will be responsible for the design, development, and maintainance of features in radar, camera, fusion, and/or vehicle control systems. He/she will actively work with internal and external engineering teams to bring high-quality products into production.
+
+
+
+Additional Responsibilities:
+
+Lead a team of engineers to develop features across different projectsDevelop embedded sensor algorithms to meet product requirementsUtilize advanced data analysis techniques to provide insight and inspire future developmentMaintain correspondence with multiple engineering teams, both internal and external.Maintain a thorough understanding of customer and product requirementsFollow Continental's Material Life Cycle development process, including code, requirements, and test result reviews
+
+Qualifications
+
+Basic Qualifications:
+
+Effective communication in English (TOEIC 700+)BS degree in related engineering field: Computer Science, Physics, or MathematicsStrong ability to solve problems in logic, mathematics, and dynamicsProficient at implementing algorithms with C/C++ programmingSkilled at analyzing large sets of data using Python/MatlabExperience developing complex softwareSolid knowledge developing prediction, tracking, and classification algorithms for computer vision, machine learning etc
+Willingness to work on different sensor products, and serve many different roles to fill department needs
+
+Preferred Qualifications:
+
+Fluent communication in English (TOEIC 900+)M.S./Ph.D. degree in related engineering field: Computer Science, Physics, or MathematicsAt least 5 years of experience developing SW for automotive applicationsExpert ability to solve problems in logic, mathematics, and dynamicsExperience developing automotive software is a plusDevelopment experience with radar and camera sensors and algorithmsSelf-motivated, with an ability to work within a team or autonomously
+
+Benefits
+
+
+Lebensversicherung
+Mitarbeiter werben Mitarbeiter
+Kantine
+Gesundheitsvorsorge
+Reisekostenzulage
+Gehaltsbonus
+Flexible Arbeitszeiten
+Karriereberatung und Trainingsangebot
+About us
+
+The Autonomous Mobility and Safety Business Area integrates safety technologies and controls vehicle dynamics to ensure safe and comfortable driving. The objective is to implement ""Vision Zero"", the vision of accident-free driving. Autonomous Mobility and Safety's components and system capabilities are prerequisites for autonomous mobility.
+
+
+Keyfacts
+
+Job-ID
+
+160774BR
+
+
+Function
+
+Engineering
+Nice to know
+
+
+Continentals Spezialisten aus unterschiedlichen Disziplinen treiben den Trend des Automatisierten Fahrens mit aller Innovationskraft voran.
+
+Direkt zur Karriere Website"
+"1605313630-2561","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Senior Java Developer for AI Apps","https://mx.indeed.com/rc/clk?jk=7af2825c495c77dd&fccid=cd22d01053af7669&vjs=3","Oracle","Senior Java Developer for AI Apps-20000YXM
+
+
+
+Applicants are required to read, write, and speak the following languages: English, Spanish
+
+Preferred Qualifications
+
+
+Brief Description:
+
+Are you ready to take the next step in your professional life and start a career with us?
+
+Oracle’s Adaptive Intelligent Applications team (AI Apps) is looking for exceptional individuals that wish to develop their skills helping us build our next generation of AI Oracle Cloud Applications.
+Detailed Description:
+
+The AI Apps team is developing a framework and data driven applications using state of the art technology ingesting from Big Data sources and using and integrating machine learning (ML) pipelines. We are in the lookout for developers interested in learning with us and help us build the next generation of AI Apps.
+Job Requirements:
+
+We are seeking for brilliant individuals in eager to learn and grow, with strong engineering background and proven track as a software developer or software engineer, and passion for converting clear specifications into robust, high quality, world class production code.
+Ideal candidates should match or exceed the following criteria:
+BS or MS degree or equivalent experience relevant experience
+2-4 years of software engineering or related experience.
+Relational or NoSQL database experience
+2-4 Years of experience with Java
+Agile development experience
+AI, ML, Python and REST service experience are desired but not required
+
+This is a great opportunity, come join us!
+
+
+
+Detailed Description and Job Requirements
+
+Analyze, design develop, troubleshoot and debug software programs for commercial or end user applications. Writes code, completes programming and performs testing and debugging of applications.
+
+
+
+As a member of the software engineering division, you will perform high-level design based on provided external specifications. Specify, design and implement minor changes to existing software architecture. Build highly complex enhancements and resolve complex bugs. Build and execute unit tests and unit plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering as necessary to discuss minor changes to product functionality and to ensure quality and consistency across specific products.
+
+
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
+"1605313425-2550","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Linux Performance Engineer - Cloud","https://mx.indeed.com/rc/clk?jk=5c8de366ce58c54f&fccid=cd22d01053af7669&vjs=3","Oracle","Linux Performance Engineer - Cloud-20000Z4T
+
+
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+
+The Oracle Linux and Virtualization organization is responsible for the production of Oracle Linux distribution for both on-premise and in Oracle Cloud Infrastructure (OCI). This includes feature evaluation, content management, product and service development, testing and deployment. It provides support and resolution to internal customers including Exadata and OCI. The PESL team is chartered with providing expert analysis and improvement of the performance, efficiency and security of Oracle Linux. If successful, you would be joining a team with deep skills in performance and virtualization examining the latest cloud technologies and frameworks, developing some of Oracle's strategic products, and improving their performance at cloud scale. We are looking for a Senior Software Engineer with expertise and passion in solving difficult problems in high availability, service scalability, operating systems, and virtualization. This role offers huge upside potential, high visibility, and fast career growth. It is a unique opportunity to work with smart people who are solving complex performance problems in the cloud scale.
+As part of this growing team, you will take an active role on a key project that focuses on cloud image monitoring and performance optimization. Your responsibilities include developing and extending an existing infrastructure which generates, executes, summarizes and displays results from an extensive set of performance workloads on a variety of cloud services. The work involves automatic generation of reports as well as maintenance and enhancement of the code base. You will be working with cutting edge cloud technologies and contributing to improving the stability, reliability, and performance of Oracle Linux on-premise and on the Cloud.
+Qualifications
+Experience with Linux Systems, including kernel and user space tools, as well as virtualization technologies
+Confident in shell scripting and Linux system administration, including network configuration
+Good understanding of computer systems and architecture, as well as distributed systems concepts including client-server architecture and networking
+Solid background in programming using both low level and high level languages, such as Python, C, C++, Java and Go
+Interest in the latest technologies and ability to learn quickly
+Analytical mind with attention to detail and desire to probe further
+Good communication skills: both written and verbal, along with the ability to communicate complex procedures
+Excellent organizational skills, along with the ability to remain focused on completing tasks and meeting goals
+
+Preferred Qualifications
+Familiarity with Agile development processes
+Knowledge of DevOps tools and methodologies (e.g., Git, Jenkins, Docker, Kubernetes, Ansible)
+Exposure to various cloud implementations (e.g., Oracle OCI, Amazon AWS, Microsoft Azure)
+Knowledge of data mining, data analysis and machine learning techniques
+Experience working with databases, such as Oracle DB and MySQL, along with SQL skills
+
+Responsibilities
+Test development, automation, deployment, execution, data collection, and data visualization
+Data analysis and drill down for root cause analysis using both manual and automated techniques
+Product development, packaging, delivery and maintenance using Agile processes and promoting DevOps tools and methodologies
+Application of machine learning techniques to develop models which generate real time data analytics
+Maintain a high-level understanding of emerging cloud and virtualization technologies
+Solve problems in complex environments - investigate, fix and resolve issues.
+Communicate findings and provide recommendations to other teams to improve product quality and performance
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+
+
+As a member of the software engineering division, you will apply basic to intermediate knowledge of software architecture to perform software development tasks associated with developing, debugging or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and occasionally suggest improvements to the architecture.
+
+
+
+Duties and tasks are standard with some variation; displays understanding of roles, processes and procedures. Performs moderately complex problem solving with assistance and guidance in understanding and applying company policies and processes. BS degree or equivalent experience relevant to functional area. 1 year of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
+"1605313316-2541","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Technology Solutions-P20","https://mx.indeed.com/rc/clk?jk=30edb65cb8bd5283&fccid=bfdac90a7574b77c&vjs=3","Nestle","Position Summary
+To strengthen our LATAM IT HUB in Mexico, we are looking for a Tech Specialist to complete our Technical & Production Department within IT Organization. This position will be integrated in the Engineering, SHE & Factory Floor IT LATAM Team, which covers the whole LATAM region, including Mexico, Central America, Caribbean Islands and South America. It’s 63 factories in our scope.
+
+
+The main purpose of this position is to be a system and technology integrator, aiming to support all process related to investigation, testing, validation and deployment of new solutions related to Digital in manufacturing process. This includes, but not limited to, connectivity architecture of IIoT devices; Cloud Connectivity and computing related Predictive Analytics; Messaging from and SCADA and MES platforms related to IIoTs; specification, configuration and support in connectivity of multi operational systems devices running factory solutions; support on development of dashboards and reports in softwares such as Power BI, Azure DevOps, etc integrated to database of factory solutions such as MES platforms; integrate new devices and technologies in to the Factory Floor IT standards.
+
+A day in the life of...
+“Package” new technologies related to Digital in manufacturing, integrating hardware, software, connectivity and security standards.
+
+Support markets in Connected Factory investigation, testing, validation and deployment of solutions and technologies.
+
+Propose solutions related to factory/market requests on Predictive, Data Analytics, Cloud Connectivity
+
+Coordinate Deployment of Global Technology Programs in Latam with adequate Project Management skills.
+
+S/He jointly establishes Roadmaps with Market Connected Factory Champions based and Regional Engineering for investigation and tests of new technologies
+
+S/He influences regional OT vendors in collaboration with Engineering to comply with Nestle IT security requirements
+
+Implement the global defined long-term business capability automation and digitalization roadmap for the business outcomes the product or product group deliver in LATAM region.
+
+Testing and piloting new technologies related to Connected Factory initiatives.
+
+Create reports linked to the database of existing solutions using software like Power Bi and Azzure DevOps
+
+Investigate, test, validate solutions related to new technologies in Manufacturing, such as Big data and analytics; Autonomous robots connectivity; Simulation platforms; Horizontal and vertical system integration; IIots; Cloud Computing; Augmented reality, RPA, etc.
+
+Ensure product contribution to the business value (follow the guidelines of the CIO office for the business KPIs)
+
+Deploy global solutions related to Connect Factory such as DMO, Cloud Connectivity, Mobile Solutions and connectivity, etc.
+
+Explore and implement technologies related to Artificial Intelligence and Machine Learning in manufacturing processes.
+
+What will make you successful
+Electric, Electronic, Automation, Computing Engineering degree or equivalent
+
+Fluent in spoken and written English and Spanish.
+
+Availability to travel to Latam Markets and, eventually other countries, consider around 30% of the work time.
+
+Strong initiative, knowledge and curiosity on technology, including self-learning.
+
+Experience of Factory Automation Technician / Supervisor / Engineer; or IT Field Services with experience in Automation Systems in Factory, or Factory Automation System Admin (factory or market) role in factory environment.
+
+2+ years’ experience in coordinating OT / IT activities across large number of factories, including experience working in worldwide company with people across countries with different culture & time zone.
+
+Experience in troubleshooting & coordinating resolutions of issues/projects involving OT solutions and the different IT towers. Knowledge of coding and software development
+
+Good Knowledge of PowerBi, Azure DevOpps and other reporting softwares.
+
+Project Management experience. Experience with Advanced Analytics
+
+Experience with effective communication at different levels in the organization
+
+Working experience on providing IT Architecture for OT components
+
+Experience of the Nestlé FAS (Factory Floor IT Infrastructure Standard for the OT Solutions) and IIoT (Industrial IoT) functional requirements.
+
+Experience of IT Security applied in the Factory Floor/OT environment, including the following Nestlé standards: Nestlé Factory Floor network layout, Nestlé IIoT standards, Nestlé Identity & Access standards, Nestlé Remote Access standards, Nestlé Cloud standards and Nestle Cyber Security for Factory Floor Principals
+
+Proven expertise in defining and implementing digital strategies across all stages of the value chain (Industry 4.0/IoT)."
+"1605313406-2549","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Mineria de Datos Jr. en Santa Fe","https://mx.indeed.com/rc/clk?jk=065486daa44e0906&fccid=be16db7b905eaab0&vjs=3","Exitus Credit Sapi de CV SOFOM ENR","Exitus Credit empresa financiera con más de 150 sucursales a nivel nacional y líder en otorgamiento de crédito domiciliado al sector de jubilados y pensionados de ISSSTE e IMSS, CFE, FERRONALES, PEMEX
+
+
+
+VEN Y FORMA PARTE DE NUESTRO EQUIPO DE TRABAJO COMO MINERIA DE DATOS JR CON O SIN EXPERIENCIA LABORAL.
+
+
+
+Ofrecemos:
+
+
+
+Sueldo competitivo.
+
+Oportunidad de desarrollo.
+
+Prestaciones de ley.
+
+Requisitos:
+
+
+
+Escolaridad:
+
+Recién egresado de Licenciatura en Informática, Sistemas Computacionales, Ingeniería Industrial, Licenciatura en Matemáticas, Licenciatura en Actuaría
+
+
+
+Deseable Maestría en Ciencia de Datos, matemáticas, estadística o investigación de operaciones
+
+
+
+Experiencia mínima como Científico de Datos.
+
+Experiencia en al menos un proyecto con impacto directo en la utilidad del negocio
+
+Conocimientos en:
+
+
+
+Básico en modelos de machine learning.
+
+Medio en estadística descriptiva, inferencial, métodos multivariados.
+
+Avanzado en programación de SQL, R y Python
+
+
+Avanzado en metodologías de validación de procesos analíticos.
+
+Medio en metodologías para la utilización de la analítica en la solución de situaciones de negocio.
+
+Básico en analítica prescriptiva.
+
+Postúlate por este medio si cubres el perfil."
+"1605313361-2545","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Machine Learning Engineer","https://mx.indeed.com/company/iProcess-Solutions-Inc/jobs/Machine-learning-engineer-b84b62c1ae9a7e59?fccid=6459d45b9b280b1a&vjs=3","iProcess Solutions Inc","Machine Learning Engineer This is a full-time contractor role based in Mexico, providing AI/ML support for Marketing Data Sciences Group at a fortune 500 company. The individual will be responsible for building customer profiles, developing classification and predictive models to enable the planning and execution of digital marketing campaigns for both B2B and B2C markets in China and across the globe. The individual will be expected to work with various corporate data assets, structured and unstructured, develop analytical strategies and approaches to help solve business decision problems. Additionally, the individual will be required to work with business partners and/or business stake holders in the organization.Education and Experience: *MS in computer science, engineering, statistics or mathMinimum 2 years of experience in B2C, B2B and ecommerceKnowledge and Skills: *Strong knowledge of marketing principles, practices, tactics and toolsIn-depth knowledge of relational database, big data platforms, statistical software and machine learning algorithms packagesProficiency in SQLProficiency in R, Python or ScalaGood English written/oral communications skillsAbility to interface effectively with management team and functional disciplineJob Type: ContractPay: $2,500.00 - $3,000.00 per monthBenefits:Paid time offSchedule:Flexible shiftCOVID-19 considerations:
+This job is completely remote.Education:Master's (Preferred)Experience:Machine learning: 2 years (Required)B2B marketing: 2 years (Required)SQL: 1 year (Required)Work Remotely:Yes"
+"1605313833-2577","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Backend / API Engineer, LATAM","https://mx.indeed.com/rc/clk?jk=a4c061a835fda2b0&fccid=eca8608f9f563439&vjs=3","Stripe","Publicada 12 de noviembre de 2020
+
+Backend / API Engineer, LATAM
+
+Stripe
+
+Ciudad de México, CDMX, México Full Time
+
+Fintech
+
+Tecnologías De La Información
+
+Escolaridad
+
+Ingeniería
+
+Experiencia
+
+7-10 años
+
+Nivel del puesto
+
+Engineer
+
+
+
+Build the core of Stripe products, services and APIs in spectacularly robust fashion.
+
+
+
+The LATAM team is a key component to Stripe’s global strategy in the Latin American market. Our mission is to reduce the barriers faced by large and emerging businesses around the world by abstracting away the complexities of payments. The LATAM team is responsible for building the payments products & infrastructure needed to launch new markets and process payments successfully throughout Latin America.
+
+
+
+As a global platform company, Stripe processes payments, runs marketplaces, detects fraud, and helps entrepreneurs start an internet business from anywhere in the world. Our success depends on building the best payments system possible for our merchants, when our merchants succeed we succeed. As a backend engineer on the team, you will build and expand Products, APIs and services while working with our partners to launch new markets and capabilities.
+
+
+
+You will:
+
+Be responsible for integrating, extending, and expanding Stripe’s products and services to support merchants and their customers in Latin America.
+
+Help define and measure the quality of our products in the region.
+
+Design, build, and maintain APIs, services, and systems across Stripe’s engineering teams.
+
+Debug production issues across services and multiple levels of the stack.
+
+Work with engineers across the company to build new Stripe features.
+
+Improve engineering standards, tooling, and processes across the company.
+
+
+
+You may be fit for this role if you:
+
+Have 7+ years of backend engineering experience building or supporting online products.
+
+Love to design systems that are elegant abstractions over complex financial industry patterns/practices.
+
+Believe that the mission of building financial infrastructure for Latin America is worth pursuing, and are motivated by reducing the complexity of the existing landscape.
+
+Have fluency and strong communication skills in either Spanish or Portuguese.
+
+Think about systems and services and write high quality code. We work mostly in Ruby, with some Java. - However, languages can be learned: we care much more about your general engineering skill than - knowledge of a particular language or framework.
+
+Are comfortable with goals that are ambiguous, and can help drive them towards clarity.
+
+Are excited as much by the impact you create as you are by how you achieve it.
+
+Hold yourself and others to a high bar when working with production systems.
+
+Take pride in working on projects to successful completion involving a wide variety of technologies and systems.
+
+Thrive in a collaborative environment involving different stakeholders and subject-matter experts.
+
+Enjoy working with a diverse group of people with different expertise (for example, ¼ of Stripes work in a country that’s different from the one they grew up in). Almost every role at Stripe collaborates with some engineers; from Sales and Support in sharing feedback from our customers, to Legal and Accounting in supporting our systems for tracking money movement and reporting around the world.
+
+
+
+It’s not expected that any single candidate would have expertise across all of these areas. For instance, we have wonderful team members who are really focused on their customers’ needs and building amazing user experiences, but didn’t work on APIs before joining Stripe.
+
+
+
+You might work on:
+
+Building a new API for our users, or iterate on existing APIs.
+
+Launching a new market, payment method, or product.
+
+Building automated systems to ensure Stripe is meeting the legal and regulatory obligations in all the countries we operate inside of.
+
+Working with our Analytics and Fraud teams to reduce chargebacks and declines.
+
+Building new tools for our business teams.
+
+What’s it like to work at Stripe?
+
+
+
+Stripe is helping the internet fulfill its potential as a platform for economic progress by building software tools that accelerate global economic access and technological development. Stripe makes it easy to start, run and scale an internet business from anywhere in the world.
+
+
+
+Stripe is, at its heart, an engineering company. To provide a missing pillar of core internet infrastructure, we hire people with a broad set of technical skills (and from a wide variety of backgrounds) who are ready to take on some of the most challenging problems in the industry – from reliably handling 100M API requests per day, to building adaptive machine learning as a result of years of data science and infrastructure work, and enabling entrepreneurs worldwide to start a global internet business.
+
+
+
+We look at Stripe as a constant work in progress and the same is true of our people; for all of us, we believe the best is yet to come. We’re here to support each other in our curiosity and creativity – which we pursue through thoughtful discussion and knowledge-sharing among a diverse set of peers and colleagues.
+
+
+
+We encourage all engineers to transition teams once every year and a half and also take on short-term projects with other teams across Stripe. This enables engineers to learn how different parts of Stripe work while also establishing stronger ties and cross-pollination between groups.
+
+
+
+We contribute to existing open-source projects and the people working on them, and we release several tools as open-source.
+
+
+
+We want to work in a company of warm, inclusive people who treat their colleagues exceptionally well. The kind of people who are committed to going out of their way to help other Stripes in the short-term and pushing them to improve over the long-term (by helping them to get better at what they do).
+
+
+
+We’re a highly cross-functional organization and view that as part of the fun: we design our space to encourage as much collaboration as possible. We have long tables in the kitchen for a reason (to enable everyone to meet new people and learn from them). We also have a culture of transparency that we carry through to email communication, ensuring that Stripes all around the world have the information they need to make good local decisions.
+
+
+
+In both our products and our people, we aim to reflect, represent and advocate for all of our users, globally. Our users transcend geography, culture and language; what we share, collectively, is a drive to create a fairer, more economically interconnected world."
+"1605313352-2544","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Product Support Engineer - DATABASE","https://mx.indeed.com/company/Sparrmx-Servicios/jobs/Product-support-engineer-a096415cea97d53a?fccid=dbc6a23a90907103&vjs=3","Sparrmx Servicios","Este puesto es para la ciudad de Tijuana, Baja CaliforniaAre you a problem solver? Do you like fast-paced technical environments that allow you to work with Fortune 500 customers, Field Representatives, and Engineers? If so, the position of Product Support Engineer is a great fit for you.What You’ll DoProduct Support Engineers are key members on a team of support analysts and subject matter experts, focused on delivering deep-level technical support to customers. A successful Product Support Engineer will develop a strong understanding of the Company Analytics Platform which consists of NewSQL engine, machine learning, analytic nodes, and supporting analytic applications that surround the Company’s analytic platform and ecosystem. The ideal candidate is highly motivated with core capabilities in problem-solving methodologies in technology areas that can be applied across the Company Analytical Ecosystem. This can include problem-solving with Databases, Analytic Applications, Business Intelligence Tools, Data Movement Technologies, Data Protection Technologies, Operating Systems, Linux, Networking, and System Performance.Key ResponsibilitiesDevelop product knowledge of the Company Analytic Ecosystem for effective problem solvingWork with customers to deliver technical analysis and solutions for the Company product issuesApplication of structured problem-solving methods to appropriately identify, isolate, reproduce, and resolve customer incidentsProblem recreation & Root Cause Analysis (RCA)Interaction with Engineering and other peers to isolate product defectsTrack key technical actions, owners, and ensure problem-solving steps are clearly communicated and being tracked for status updatesTreating every customer professionally and with respect; ensure positive customer experience and satisfactionFollow Incident Management Process & escalate when necessaryBasic QualificationsCurrent US B1 Visa or ability to obtain as a condition of employmentFluent in English (Effective oral and written communication skills)Bachelor’s Degree in Computer Science or a related technical discipline2+ years of technical experience working in large server environmentsAbility to support a mission-critical 24/7/365 environmentKnowledge of SUSE LINUX Operating SystemDemonstrated problem-solving skills and analytical abilityAbility to work effectively both independently and in a team environmentExperience using a ticketing system or incident management system such as ServiceNowPreferred QualificationsExperience supporting customers using complex configurations/productsKnowledge of enterprise-level relational databases (SQL, DB2, etc.)Knowledge of programming languages such as C/C++, Java, or PythonKnowledge of Linux System AdministrationUnderstanding of problem recreation techniquesTipo de puesto: Tiempo completo, IndefinidoSalario: $22,000.00 - $26,000.00 al mesTrabajar desde casa:NoCOVID-19 Precaution(s):Proceso de entrevista remota"
+"1605313774-2572","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Desarrollador Full Starck","https://mx.indeed.com/company/Refrigeracion-para-autos-sa-de-cv/jobs/Desarrollador-full-starck-07c06536eb799a2e?fccid=2a1faa39a5922713&vjs=3","Refrigeracion para autos SA de CV","Desarrollador Full StarckRequisitos:Ingeniería o Licenciatura terminada en Sistemas, TI, entre otras.Radicar en HermosilloExperiencia en el Ramo del Desarrollo Full StarckExperiencia en:GitPythonVB .NETSQL ServerAWS (EC2, S3, Lightsail, RDS)Bases de Machine learningBases en data ScienceInteresados postularse por este medio y mandar cv al correo que se adjunta, especificando pretensiones económicas.Tipo de puesto: Tiempo completo, IndefinidoExperiencia:VB .NET: 5 años (Requisito mínimo)AWS (EC2, S3, Lightsail, RDS): 2 años (Requisito mínimo)Bases de Machine Learning: 2 años (Requisito deseable)Bases en Data Science: 2 años (Requisito deseable)Python: 3 años (Requisito mínimo)SQL Server: 5 años (Requisito mínimo)Trabajar desde casa:No"
+"1605313447-2552","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Server Systems-Lead Engineer - SRE","https://mx.indeed.com/rc/clk?jk=3c20dd87192becdb&fccid=2a90b491c8a55d0f&vjs=3","FICO","FICO (NYSE: FICO) is a leading global analytics software company, helping businesses in 90+ countries make better decisions. Join our world-class team today and fulfill your career potential!
+Job Summary
+Job Description
+
+The Lead Engineer in the Server Systems team requires experience in VMware virtualization. The Server Systems team manages OS/applications, core services (i.e. DNS, RSA, CyberArk), utilities, and support software. Significant experience with Red Hat and Microsoft operating systems technologies is required, with strong experience with VMware.
+What You’ll Contribute
+Provide expertise in managing, provisioning, and supporting FICO's server/cloud environments, this includes OpenStack, VMware and AWS.
+Will manage OS/applications, core services (i.e. DNS, RSA, CyberArk), utilities, and support software.
+Resolution of Incidents, Service Requests using a service management
+
+
+ticket queue and Change Management processes.
+Interact with FICO infrastructure, dev-ops, and development engineering teams, as well as software and hardware vendors.
+Participate in an on-call rotation schedule with teammates to provide 24/7 systems support.
+
+
+Experience with server operating systems and servers, and demonstrated experience with virtualization, storage, and networking.
+What We’re Seeking
+Proficiency supporting Linux systems; Red Hat Enterprise (REHL).
+Administrative management experience supporting Microsoft server operating
+
+
+systems, including Windows Server 2003, 2008, 2012 and 2016.
+Hands-on administrative management experience supporting VMware hypervisor systems; ESXi, vCenter, vSphere.
+Conversant with enterprise-level virtualization software maintenance utilizing
+
+
+VMware vSphere 6.x servers and clusters.
+Skilled with scripting languages such as Shell, Perl, Python or Ruby.
+Experience with service management ticketing system - ServiceNow.
+Proven recent experience with Change Management within a 24/7 technology operations.
+Our Offer to You
+A culture and work environment strongly reflecting our core values: Act Like an Owner, Delight Our customers and earn the respect of others.
+Highly competitive compensation and rewards.
+Flexible work options, opportunities to give back to your community, social events with colleagues and comprehensive benefits program inclusive of progressive parental leave.
+Why Make a Move to FICO?
+At FICO, you can develop your career with a leading organization in one of the fastest-growing fields in technology today – Big Data analytics. You’ll play a part in our commitment to help businesses use data to improve every choice they make, using advances in artificial intelligence, machine learning, predictive and prescriptive modeling, and much more.
+FICO makes a real difference in the way businesses operate worldwide:
+Credit Scoring — 150+ billion FICO Scores have been sold to date, making it the most used credit score in the world.
+Fraud Detection and Security — 2.6+ billion payment cards globally are protected by FICO fraud systems.
+Lending — 3/4 of US mortgages are approved using the FICO Score.
+Anti-Money Laundering — our solutions check more than half a billion transactions a day to prevent criminal schemes such as terrorist financing
+Global trends toward digital transformation have created tremendous demand for FICO’s solutions, placing us among the world’s top 100 software companies by revenue. We support many of the world’s largest banks, insurers, retailers, telecommunications providers and other firms reach a new level of success.
+Our success is dependent on really talented people – just like you – who thrive on the collaboration and innovation that’s nurtured by a diverse and inclusive environment. We’ll provide the support you need, while ensuring you have the freedom to develop your skills and grow your career. Join FICO and help change the way business thinks!
+Learn more about how you can fulfill your potential at www.fico.com/Careers
+FICO values the benefit that diversity and a culture of inclusion bring to our workplace. We are an equal employment opportunity and affirmative action employer and we’re proud to offer employment and advancement opportunities to all applicants without regard to race, color, ancestry, religion, sex, national origin, pregnancy, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status."
+"1605313667-2564","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Procurement Specialist","https://mx.indeed.com/rc/clk?jk=04c2a12dcd82ff74&fccid=087aaf21c7121482&vjs=3","SoftwareONE","Por quÃ© SoftwareONE?:
+
+SoftwareONE es hoy un líder global en gestión de soluciones Software y Cloud, y está modernizando la manera en la que las organizaciones presupuestan y optimizan su gasto global en IT desde instalaciones on-premise hasta la nube.
+
+
+Nuestros 5.000 expertos en tecnología repartidos en más de 80 paises trabajan en aproximadamente 1.000 proyectos tecnológicos globalmente. Proporcionamos a nuestros clientes el asesoramiento adecuado en su camino tecnológico hacia la nube, o optimizando los resultados del negocio en un entorno basado en la nube. Nuestra plataforma PyraCloud, emplea el Machine Learning, proporcionando la visibilidad, el conocimiento, la automatización y el control que los clientes demandan para maximizar sus inversiones en software.
+
+
+Paralelamente, nuestros servicios de Gestión del ciclo de vida del Software (SLM - Software Lifecycle Management), proporcionan la metodología y el marco para optimizar la infraestructura de TI subyacente, acelerar la adopción de la nube y minimizar el riesgo de cumplimiento. Con nuestro liderazgo dinámico y nuestra estrategia de negocio dirigida, SoftwareONE es uno de los proveedores de soluciones tecnológicas de más rápido crecimiento en el mundo, con alianzas de elite con Microsoft, AWS, Adobe, IBM, VMware, Oracle, Citrix, Red Hat, Trend Micro y muchos más.
+
+El puesto:
+Responsable de organizar cotizaciones de editoriales y proveedores.
+Responsable de establecer y mantener relaciones con el editor y los distribuidores.
+Responsable de negociaciones con editor y distribuidores.
+Investigar para encontrar toda la información relevante requerida para completar las tareas.
+Se comunica de manera oportuna y efectiva a través de correos electrónicos, informes y recordatorios.
+Alcanza los objetivos de la organización al aceptar la propiedad para cumplir con solicitudes nuevas y diferentes; explorar oportunidades para agregar valor a los logros laborales
+Admite solicitudes de clientes, socios, representantes de ventas y otros miembros del equipo de operaciones.
+
+Responsable de apoyar y cumplir con todas las necesidades de adquisición del equipo.
+Realiza otras tareas asignadas por la administración de SoftwareONE
+Debería ser capaz de administrar múltiples tareas simultáneamente, mientras completa el trabajo dentro de los plazos asignados como contribuyente individual en el proceso.
+Comprometidos a aplicar las mejores prácticas en el trabajo diario.
+Colabora con socios internos y externos para cumplir con los objetivos de adquisición."
+"1605313457-2553","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Desarrollador Java Spring","https://mx.indeed.com/company/Kick-off-social-para-Reclutamiento-IT/jobs/Desarrollador-java-spring-02f325fe499b1380?fccid=067126f798f4f4cc&vjs=3","Reclutamiento IT","Somos una consultora de servicios de desarrollo de software con integraciones en nube, soluciones IoT y Machine Learning con presencia en Latam y EEUU socios de Microsoft, Amazon, Oracle por mencionar algunas, nos preocupamos por brindar el mejor servicio a socios, clientes y colaboradores.¿Qué harás? Participarás en diversos proyectos de desarrollo y soluciones paquetizadas; nos orientamos a integraciones, desarrollo móvil, IoT, Big Data o IA; dentro de las actividades consideramos levantamiento de requerimientos y estimación (si aplica), codificación y documentación.¿Qué podemos darte a cambio?Además de un excelente ambiente de trabajo, mucho aprendizaje, formación y calidad humana, te ofrecemos: Ingreso de $44,000 pesos brutos contratación directa 100% nominal prestaciones de Ley y prestaciones muy atractivas superioresHorario de lunes a viernes de 9:00 a.m. a 6:30 p.m.Zona de trabajo: Home office y posteriormente oficina¿Qué buscamos?3 a 5 años de experiencia como:Desarrollador web JAVA, desarrollador JAVA, programador JAVA, Analista JAVA, Analista programador JAVA, Dev JAVA, Java Programmer Spring, java developer Junior, java FullStack, java senior, java pro, etc.3 años de experiencia en el desarrollo de aplicaciones Back End con JAVA versión 8 o superiores, manejo de framework spring Spring Web, Spring Boot, Spring security, Spring cloud. Spring Data, Spring Netflix, Zuul Ribbon, Histrix, Spring 5 webflux.Desarrollo Front End con HTML 5, Javascript ES 6 o +, typescript, Node, Angular 7 o +, compenents programming, Css, less, sass, flex boxManejo de Patrones: Repository, DAO, Handler, Chaining, Builder, ProxyBases de datos: Relacionales (Conocimiento de queries y Stored procedures) y No Relacionales (MongoDB, Cassandra, Elastic).Conocimiento básico en el manejo de contenedores.Conocimiento en el manejo de protocolos de comunicación REST SOAP (INDISPENSABLE)Metodologías: Ágiles (SCRUM, Kanban, Extremme Programming).Sistemas Operativos Unix /Linux, comandos básicosManejo de GitHub, SVN, Bitbucket, etc. Metodologías de desarrolloExperiencia práctica haciendo pruebas unitarias con Junit o alguna herramienta como Jmeter, SoapUIComunicarse con servicios web externosSistemas Operativos Unix /Linux, Servidores Web Tomcat, Apache o WebSphereDESEABLE: Manejo de plataformas AWS, Kubernetes, Docker, etc.Experiencia en testing de aplicaciones (AUT, IT, etc)Metodología ágil de desarrollo (XP, Scrum, etc)Orquestadores de tareas (Grunt, Gulp...)*Esta empresa cuenta con un proceso de reclutamiento y selección, inclusivo y libre dediscriminación.
+Otorga las mismas oportunidades de empleo a las personas candidatas, sin importar: raza, color, religión, género, orientación sexual, estado civil o conyugal, nacionalidad, discapacidad, o cualquier otra situación protegida por las leyes federales, estatales y locales.Tipo de puesto: Tiempo completo, IndefinidoSalario: $43,000.00 - $44,000.00 al mesHorario:Lunes a viernesExperiencia:Desarrollo front HTML 5, Javascript ES 6 o +: 1 año (Requisito mínimo)JAVA 8 o superior: 2 años (Requisito mínimo)"
+"1605313873-2581","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Product Support Engineer II","https://mx.indeed.com/rc/clk?jk=12ef0e3d820413cf&fccid=2a90b491c8a55d0f&vjs=3","FICO","FICO (NYSE: FICO) is a leading global analytics software company, helping businesses in 90+ countries make better decisions. Join our world-class team today and fulfill your career potential!
+Job Summary
+Job Description
+Role: Product Support Engineer II
+The Opportunity
+“As a Product Support Engineer, you will provide remote technical support to internal and external clients for both hosted and on-premise solutions by supporting our diverse product portfolio. You’ll collaborate through innovation with IT, operations teams, product development, and product management.” – VP, Product Support.
+What You’ll Contribute
+Tier – II product support for all clients.
+Duties include but not limited to Maintenance and Support of Origination Manager Products and Solutions;
+Replicating client-reported problems; resolving routine and complex end-user problems in assigned product areas
+Triage and escalate incidents in a timely manner according to standard operating procedures.
+An experienced support engineer will act as a mentor and provide training to other support engineers on technical issues and may become an SME (Subject Matter Expert) of the product or a module.
+This is not a developer position, however, it involves extensive troubleshooting and problem-solving skills, learning various FICO products and modules, interaction with the developers of both our customer base and within FICO.
+You will use your sharp analytical skills, knowledge of software engineering, and project life cycle skills to help analyze and resolve the product and/or solution issues.
+What We’re Seeking
+Bachelor’s degree in Computer Science, Engineering, or equivalent.
+Strong understanding of Object-Oriented Design and programming, specifically experience working on Core Java and related technologies.
+Experience in troubleshooting multi-tier enterprise applications and relational databases.
+Ability to prioritize and manage multiple incidents.
+Excellent customer interaction skills.
+Experience and exposure in AWS and AWS cloud technologies and/or Outsystems platform is a plus.
+Experience supporting and trouble-shooting Cloud application is an added advantage.
+Experience and Knowledge of Kubernetes and cloud deployment is a plus.
+Must be willing to work weekend on-call rotation; additional pay will be provided.
+Our Offer to You
+A culture and work environment strongly reflecting our core values: Act Like an Owner, Delight Our Customers and Earn the Respect of Others.
+The opportunity to make a difference by leveraging your unique strengths.
+Highly competitive compensation and rewards.
+Opportunities to give back to your community, social events with colleagues, and a comprehensive benefits program inclusive of progressive parental leave.
+Why Make a Move to FICO?
+At FICO, you can develop your career with a leading organization in one of the fastest-growing fields in technology today – Big Data analytics. You’ll play a part in our commitment to help businesses use data to improve every choice they make, using advances in artificial intelligence, machine learning, predictive and prescriptive modeling, and much more.
+FICO makes a real difference in the way businesses operate worldwide:
+Credit Scoring — 150+ billion FICO Scores have been sold to date, making it the most used credit score in the world.
+Fraud Detection and Security — 2.6+ billion payment cards globally are protected by FICO fraud systems.
+Lending — 3/4 of US mortgages are approved using the FICO Score.
+Anti-Money Laundering — our solutions check more than half a billion transactions a day to prevent criminal schemes such as terrorist financing
+Global trends toward digital transformation have created tremendous demand for FICO’s solutions, placing us among the world’s top 100 software companies by revenue. We support many of the world’s largest banks, insurers, retailers, telecommunications providers and other firms reach a new level of success.
+Our success is dependent on really talented people – just like you – who thrive on the collaboration and innovation that’s nurtured by a diverse and inclusive environment. We’ll provide the support you need, while ensuring you have the freedom to develop your skills and grow your career. Join FICO and help change the way business thinks!
+Learn more about how you can fulfill your potential at www.fico.com/Careers
+FICO values the benefit that diversity and a culture of inclusion bring to our workplace. We are an equal employment opportunity and affirmative action employer and we’re proud to offer employment and advancement opportunities to all applicants without regard to race, color, ancestry, religion, sex, national origin, pregnancy, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status."
+"1605313751-2570","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Service Delivery Architect - Data Center","https://mx.indeed.com/rc/clk?jk=a509c5da5d2b55aa&fccid=dfc44f3b8c44a6db&vjs=3","Cisco Systems","We are seeking a Service Delivery Architect leading the Strategic Services Practice Large Deal Methodology Team as part of CX Centers in Customer Experience (CX).
+
+The Strategic Services Engine serves to lead delivery of custom CX Center services, increase partner confidence in CX Centers, shift more work to Centers, incubate innovation to scale, and introduce standardization (repeatability, automations) resulting in outstanding P/L and transition of work to Proactive Services.
+
+More specifically, the Engine scope includes Delivery Strategy (Delivery Methodology, Prioritization, Roadmaps), Demand & Expectation Management, Escalation Management, Performance Management, Continuous Service Improvement, Financial / Cost Management, Relationship Management, and Sales & Marketing Support.
+
+For decades Cisco's vision has been to change the way we work, live, play and learn. The LDM team is extending that vision making it easier, and more profitable, to achieve the forward-thinking changes that customers need now. Come build the new methodology improving CX Centers' strength and make Cisco's largest deals more successful!
+
+The Strategic Services Engine is organized into Lines of Business and the Practice. The lines of business focus on the content. As the Service Delivery Architect, you will:
+
+Define and document delivery methodology and supporting technical documentation, including each lifecycle phase—conceptualize (Customer Requirements Document), plan (Implementation Strategy Plan), design (High Level Design) and advise cross-functional teams across multiple technical, operational and architecture domains
+
+Use your architecture expertise and eye for business to participate in discussions about technical aspects and articulate value propositions relating to a customer RFP or ongoing large deals
+
+Choose and/or define a practical service offer with complete Work Breakdown Structures and scoping guidance
+
+Build staffing plans with answers to 9 service delivery segmentation questions
+
+Gain agreement by CX Region, Engine, and CX Center Region partners
+
+Identify processes to optimize and standardize (to increase Delivery efficiency)
+
+Identify tasks to automate, paper prototyping or developing a proof-of-concept and business case with the Innovation, Disruption & Automation team
+
+Identify or develop CX Center capabilities and/or new offers to address customer business and IT outcomes
+
+Build and deliver formal and informal training for the CX Center Region and partners
+
+Actively participate in communities, mentor others, and maintain successor plan for large deal delivery and/or activities
+
+Amongst the qualifications for this role, emphasis is placed on your ability to understand business and technical solutions for a key vertical (one of Government and Utilities; Financials; Healthcare, Manufacturing, Logistics, and Retail; OR Service Provider and Technical Services) with a focus on Data Center Technologies and optimize Cisco’s CX Centers ability to deliver those solutions profitably.
+
+. Who You'll Work With
+
+Cisco CX Centers is force multiplier for Cisco and our partners to simplify digital transformation for our customers through unmatched technical expertise, relevant insights, and steadfast automation at global scale
+
+In the CX Center organizational design, there are 3 functions: Regions, Engines, and Foundations. This Service Delivery Architect role is aligned to the Strategic Services Engine. Engines are encouraged to:
+
+Design, own and implement global delivery methodology for Engine with visibility to regional differences
+
+Own disruption and innovation including business cases to take innovation to scale
+
+Ensure Delivery Readiness for new & changed offers (working with CXPM & BUs)
+
+Actively supervise high quality service delivery and initiate process/tooling improvements Who You Are
+
+Experienced technical specialist (Solution Architect or Technical Leader)
+
+Naturally inquisitive
+
+Good communicator
+
+Willing to innovate
+
+
+
+Influential Our minimum requirements are the following:
+
+You've achieved a Bachelor degree; Masters’ preferred.
+
+Have 5+ years’ experience in crafting customer technical solutions for Data Center technologies and leading others in delivery
+
+You have a proven track record to collaborate and influence actions of team members outside of function for improved team and service performance
+
+You can identify, prioritize and deliver measurable results using frameworks and sound business practices, understanding cross-functional dependencies
+
+You are analytical with a solid ability to translate insights into recommendations and actions.
+
+Strong business and technical writing skills, coupled with strong presentation abilities
+
+You love partnership, teamwork and have well-developed project management skills
+
+You possess sophisticated Leadership Skills including leading by influence Why Cisco
+
+#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here’s how we do it.
+
+We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (30 years strong!) And only about hardware, but we’re also a software company, security company, a blockchain company, and an AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!
+
+But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)
+
+Day to day, we focus on the give and take. We give our best, we give our egos a break, and we give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and we difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward.
+
+So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Social media enthusiast? Many of us are. Passion for technology and world changing? Be you, with us!
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
+"1605313893-2583","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","TPM Coordinator","https://mx.indeed.com/rc/clk?jk=7c1be6c54c461dd1&fccid=87f38351bd29de24&vjs=3","Eaton","Eaton’s Vehicle division is currently seeking a TPM Coordinator to join our team. This position is based at our new Aguascalientes Mexico facility.
+
+
+The TPM Coordinator is responsible for supporting facilities and equipment installation, maintenance, and repairs for the new site start-up and on-going operations. Provides advanced troubleshooting, repair and installation of electronic and electronic controlled equipment in a manufacturing environment.
+
+
+Making what matters work at Eaton takes the passion of every employee around the world. We create an environment where creativity, invention and discovery become reality, each and every day. It’s where bold, bright professionals like you can reach your full potential—and where you can help us reach ours.
+
+
+Some activities related with the position will be:
+Owns and administrates CMMS (Computerized Maintenance Management System, Oracle EAM)
+Provides training on the usage for CMMS to users (requesters and technicians)
+Develops, updates and provide training to operators and supervisors for autonomous care documentation for all equipment in plant
+Updates Assets at CMMS
+Develops and updates PM routines at CMMS
+Performs Cycle counts to Tools and Equipment parts in maintenance´s warehouse
+Works with Maintenance supervisor to ensure parts in reorder point are addressed with purchase requisition
+Schedules PM plan for equipment and facilities
+Provides TPM training at all levels in EV Aguascalientes plan.
+Works with engineering to ensure there is a plan to improve top offenders’ equipment
+Works with engineering to ensure change management is followed and all needed information is provided before an equipment is shipped to the plant (Risk assessments, Manuals, BOM, Prints, schematics, PLC Backups, Recommended spare list)
+Develops and updates LOTO procedures
+Updates Maintenance performance Charts (PM schedule completion, MTBF, MTTR, RT, DT)
+Updates and administrates the critical spare parts list and critical machinery list in EV Aguascalientes plan.
+Performs mechanical, electrical, pneumatic and hydraulic repair work on plant equipment
+Troubleshoots and repairs machine malfunctions and mechanical problems and electrical problems
+Keeps work area clean and free of hazards – 5-S program
+Performs preventive maintenance on plant equipment
+Completes special projects as required – including design and repair work on material handling systems and other mechanical devices
+Designs and fabricates parts to improve machine operation
+Completes projects as directed (machine moves, modifications, installations, material handling, remodeling, work area, etc.)
+Programs basic electronic control equipment.
+Recommends changes for existing production equipment to improve product quality, equipment reliability and equipment productivity.
+Documents electrical modifications to machine tools on associated electrical drawings.
+Recommends modifications of electronic control equipment
+Help train machine operators on operation of new control systems.
+
+
+
+
+When we embrace the different ideas, perspectives and backgrounds that make each of us unique, we — as individuals and as a company — are stronger.
+#LI-AP01
+Qualifications
+Required (Basic) Qualifications:
+BS or Technical college in Industrial Maintenance, Mechatronics or equivalent
+Knowledge of blueprint and process sheet reading
+Knowledge of electrical and electronic systems
+Proficient in pneumatic and hydraulic systems
+Knowledge of programmable logic controls
+Proficient in plumbing systems
+Knowledge of CNC Machines
+Welding skills
+Preferred Qualifications:
++5yrs Maintenance and/or electrical experience
+English (able to communicate with no supervision)
+Associates degree in related field
+Previous work experience with CMMS software (Oracle EAM is a plus)
+Previous work experience in Tool and Die
+Understands Statistical Process Control
+Understanding of electronic circuitry
+Working knowledge of heat treating and metallurgical principles
+Working knowledge of steel types and ability to determine which are best in different plant applications
+Demonstrated understanding of metal cutting, inserts, feeds, speeds, etc.
+Additional Information:
+Travel may be required (<10-40%) – depending on project phase
+
+
+We make what matters work. Everywhere you look—from the technology and machinery that surrounds us, to the critical services and infrastructure that we depend on every day—you’ll find one thing in common. It all relies on power. That’s why Eaton is dedicated to improving people’s lives and the environment with power management technologies that are more reliable, efficient, safe and sustainable. Because this is what matters.
+
+We are confident we can deliver on this promise because of the attributes that our employees embody. We’re ethical, passionate, accountable, efficient, transparent and we’re committed to learning. These values enable us to tackle some of the toughest challenges on the planet, never losing sight of what matters.
+Job: Manufacturing & Operations
+
+
+Region: Latin America
+
+Organization: VEH NAA North America Auto
+
+
+Job Level: Team Leader/Supervisor
+
+Schedule: Full-time
+
+Is remote work (i.e. working from home or another Eaton facility) allowed for this position?: No
+
+Does this position offer relocation?: Relocation from within hiring country only
+
+Travel: Yes, 10 % of the Time"
+"1605313477-2555","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Area Sales Manager","https://mx.indeed.com/rc/clk?jk=4d8f0f882db4c571&fccid=87f38351bd29de24&vjs=3","Eaton","Eaton’s Sales division is currently seeking a Area Sales Manager to join our team. This position is based at our Monterrey Office.
+The Area Sales Manager is responsible for Plans, coordinates, and executes all sales efforts at assigned distributor locations to achieve maximum Power Motion and Controls product sales penetration, while maintaining a professional relationship with each distributor and customer.
+Making what matters work at Eaton takes the passion of every employee around the world. We create an environment where creativity, invention and discovery become reality, each and every day. It’s where bold, bright professionals like you can reach your full potential—and where you can help us reach ours.
+Some activities related with the position will be:
+Identify customer applications, products, programs, etc. that present an opportunity for PMC product sales. Propose solutions to these customer needs, coordinate division resources and customer decision centers to achieve customer and division goals and objectives.
+Communicates effectively with distributors and customers on new or revised PMC marketing policies and procedures as well as periodic review of open orders, forecasts, inventory levels and other goals and performance metrics.
+Coordinates and implements, on a shared responsibility basis with Customer Service departments, special warranty agreements/procedures at assigned customers
+Plans, conducts or coordinates technical sales training sessions on standard and new PMC products and their applications for distributors and customers.
+Coordinates special marketing or growth program sales efforts as requested. Develops and coordinates focused sales plans to maximize sales penetration.
+Accumulates and evaluates data on competitor's products, market penetration, and channel coverage and prepares reports for sales and marketing review.
+Maintains and updates product forecast utilizing distributor and customer input and personal judgment.
+Prepares and submits routine call reports, monthly reports, action plan updates, operating plan updates, GAP Analysis, TOP, and other sales-oriented documents to the Regional Sales Manager upon request.
+Manages primary effort at distributors to increase Eaton PMC product market share.
+Analyze and recommend changes as appropriate in customer assignments and/or distribution coverage.
+Operate within assigned annual territory expense budget.
+Maintain effective communication across all Eaton sales channels through a sound understanding of the full Eaton distribution channel strategy. Thorough understanding of CCR.
+Where appropriate and requested, participate in marketing trade shows and events.
+
+Eaton has announced it has reached an agreement to sell its Hydraulics Business to Danfoss A/S. This transaction is expected to be completed by the end of 2020 and this position is expected to remain with the Hydraulics Business and would transfer to Danfoss A/S. upon close. The compensation and benefits that will initially be offered for this position are based on Eaton’s plans, programs and practices. If you are offered and accept this position and are actively employed by the Hydraulics Business when the transaction closes, Danfoss A/S will provide further details to employees concerning compensation and benefits at that time.
+When we embrace the different ideas, perspectives and backgrounds that make each of us unique, we — as individuals and as a company — are stronger.
+#LI-PR1
+
+Qualifications
+Required (Basic) Qualifications:
+Minimum 3 to 5 years of commercial sales experience
+Experience with power, motion and/or controls Hydraulics products
+Valid driver’s license
+Preferred Qualifications:
+Bachelor’s Degree from an accredited institution
+CFPS/CFPE certification
+
+Position Success Criteria :
+Basic technical education and experience in power, motion and controls products is required to apply products in a variety of customer requirements in a wide variety of industries such as machine tool, mining, agriculture, construction, industrial process, alternative energy, material handling, marine and forestry.
+Must graduate from the Eaton Hydraulics Sales Development Program within 2 years.
+Technical knowledge of mechanical and electrical fundamentals is required.
+Basic knowledge and understanding of the markets and customers is required.
+Broad range of computer skills associated the Microsoft Office suite of products.
+Requires the ability to plan and conduct meetings and technical product sessions with distributors, customer sales and service personnel, or customer engineering groups as required.
+Ability to effectively network with internal customers to gain support for customer opportunities.
+Diverse market and application knowledge to successfully develop value propositions for customers.
+Broad range of computer skills associated with Siebel CRM (C360) and the Microsoft Office suite of products.
+Market knowledge to assess and analyze current market position and growth opportunities.
+Extensive travel and time away from home and office require continual and effective communications with internal management and customer personnel to maintain sales and to accomplish all specific functions of this position to meet sales goals and objectives.
+
+We make what matters work. Everywhere you look—from the technology and machinery that surrounds us, to the critical services and infrastructure that we depend on every day—you’ll find one thing in common. It all relies on power. That’s why Eaton is dedicated to improving people’s lives and the environment with power management technologies that are more reliable, efficient, safe and sustainable. Because this is what matters.
+
+We are confident we can deliver on this promise because of the attributes that our employees embody. We’re ethical, passionate, accountable, efficient, transparent and we’re committed to learning. These values enable us to tackle some of the toughest challenges on the planet, never losing sight of what matters.
+Job: Sales
+
+
+Region: Latin America
+
+Organization: HYD Hydraulics Group
+
+
+Job Level: Individual Contributor
+
+Schedule: Full-time
+
+Is remote work (i.e. working from home or another Eaton facility) allowed for this position?: No
+
+Does this position offer relocation?: Relocation from within hiring country only
+
+Travel: Yes, 10 % of the Time"
+"1605313853-2579","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Desarrollador de Sistemas Embebidos","https://mx.indeed.com/rc/clk?jk=205135feea319154&fccid=dd616958bd9ddc12&vjs=3","null","Buscamos a alguien que tenga experiencia programando sistemas embebidos y quiera tener la oportunidad de trabajar con un equipo de diseño de hardware local hambriento, trabajador y en crecimiento. Si estás cansado de los trabajos mundanos de oficina en un cubiculo y quieres unirte a un equipo amigable, apasionado y sin límites, nos encantaría conocerte.
+
+
+
+
+
+El Embedded System Developer (Desarrollador de Sistemas Embebidos) es la persona encargada de programar el firmware de las tarjetas desarrolladas por la empresa.
+
+
+
+Tareas:
+
+
+
+Investigación de tecnologías de microcontorladores y microprocesadores,
+Selección de APIs, librerías y herramientas de programación,
+Creación de casos de uso y diseño de alto nivel de sistemas embebidos, diagramas BPMN, diagramas de flujo,
+Diseño de algoritmos,
+Creación de librerías,
+Programación de microcontroladores y microprocesadores,
+Documentación de código, y
+Soporte a los clientes en cuanto a pruebas de prototipos.
+
+
+
+Conocimientos:
+
+
+
+C.
+C++.
+Experiencia en programación de microcontroladores.
+Experiencia usando servicios web (REST API) (deseable).
+Protocolos de comunicación (principalmente MQTT).
+Conocimientos avanzados de Linux.
+Machine Learning (deseable).
+
+Para poder aplicar, es importante llenar el formulario que se encuentra en este enlace:
+http://idwadmin.com/survey/start/9cefb308-6e3a-4a0a-a9c2-0c056e731c7c?fbclid=IwAR2bjud5Kp-QKyyksTG5QFrv7fvsz-D9Eu8byWmDtFiBnxY3qpKH2l71Iug"
+"1605313681-2565","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Customer Care Coordinator","https://mx.indeed.com/rc/clk?jk=e5af951bc1c1a709&fccid=74863a92805aacc3&vjs=3","OMRON","Customer Care Coordinator Omron Automation and Safety is looking for an energetic and focused Customer Care Coordinator in Guadalajar, Mexico, for organizing and maintaining customer accounts of Omron customers. The responsibilities of this position include support of internal & external customers through data entry, email & telephone communications.
+
+Responsibilities: Enter new customer orders, change/correct existing orders, using e-mail, fax, EDI and portal accurately into JDE system. Communicate with customers (internal and external) via phone and e-mail. Manage department email Inbox and web inquiries Basic understanding and familiarity of Omron Part Numbers to determine resolution or routing of customer inquiries. Set up pricing and new accounts / coordinate with credit department. Answer customer questions on price and availability. Conduct portal training for assigned customers. Enter and manage special quotes in the JDE system per sales direction. Proactively manage customer orders by communicating delivery date changes, expediting with supply chain team when necessary. Initiates and edits sales adjustments, RMAs, cancellations, stock rotations and submit for approval before entering them into the JDE system. Interact with outside sales and other Omron personnel as required to manage customer orders. Represent Omron in a professional, ethical, and socially responsible manner. Represents the Omron Guiding Principles through personal and business interactions with employees, customers, distributors, and colleagues.
+
+Requirements: High School degree or equivalent. Minimum of three (3) years experience in a business-to-business Customer Service related position. Bi-lingual Spanish speaking and reading/writing is required. Ability to provide exceptional customer service. Ability to establish and maintain good customer relationships. Knowledge of MS Office - Word and Excel. Knowledge of JDE is preferred. Energetic, aggressive and focused. Highly motivated self-starter and financially driven. Strong relationship builder and a strong personal desire to win. Ability to multi-task and work cross-functionally. Good organization skills. Team player mentality but able to work independently as required. Strong interpersonal, listening, questioning, and communication skills.
+
+The Company: *******2013 and 2014 Winner for one of the 65 Best Places to Work in Illinois! *******2011-2014 Winner for one of the 101 Best and Brightest Companies to Work For in Chicago! Omron Automation and Safety is a leading global manufacturer of industrial automation products focused on sensing and control technologies. We serve OEM machine builders and end users with a wide range of products that integrate easily into complete automation solutions, offer simple connectivity, and are backed by solid support services. Our extensive product groups which are primarily manufactured overseas include programmable controllers, servo motors and drives, operator interfaces, temperature controllers, sensors, inspection and machine vision systems, RFID track and trace systems, and software. Our established distribution network generates most of the sales, and we use e-commerce, custom manufacturing and service centers to support special needs. Omron Automation and Safety, headquartered in Hoffman Estates, Illinois, is the Americas industrial automation subsidiary of Omron Corporation, a $7 billion global technology company celebrating 75 years of success. Led by a management team where each member has 20+ years of experience in Industrial Automation, we are a midsize firm with a corporate culture of quality and customer satisfaction. As we strive to grow the company and our market share, this position offers the potential to make a solid impact on the organization. Omron's corporate core value of ""working for the benefit of society"" applies to our unique technical competencies in the areas of industrial automation, safety, security, environmental protection and healthcare in pursuit of a brighter future for all. As a corporate citizen that has long recognized and encouraged the importance of giving back to local communities and helping those less fortunate, Omron has demonstrated this over the years by designing a manufacturing facility which employs the disabled, making donations to aide those impacted by natural disasters, and sponsoring an annual Omron Day in which employees volunteer in the local communities across the globe. Fun, Perks, and Benefits: Company culture defined by being fast paced, multi-tasking, team focus, empowerment, creativity, innovative and open communication Competitive salaries with bonus potential (if applicable) Immediate 401k match and 100% vesting Blue Cross Blue Shield for medical, dental, vision and prescription drug benefits Matching Gift Program and Paid Community Leave Summer Hours, Telecommuting and Flexible Work Hours Sick, Vacation and Holiday Pay Discounts on things such as Pet Insurance, Movie Tickets and Cell Phone State of the Art new corporate building in Hoffman Estates with onsite fitness center, deli and cafe Community Activities with local non-profit organizations Wellness Activities such as Standing Laptop Desks, Stability Balls, Walking Contest, Nutritional Learning Sessions and On Site Flu Shots and Health Screenings Jeans on Fridays Football, Baseball and Hockey Jersey Days to start the professional seasons Spirit Days Omron Automation and Safety is an equal opportunity employer."
+"1605313503-2557","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Senior Linux Performance Engineer","https://mx.indeed.com/rc/clk?jk=e9cd67b4bf0eb267&fccid=cd22d01053af7669&vjs=3","Oracle","Senior Linux Performance Engineer-20000ZLP
+
+
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+
+The Oracle Linux and Virtualization organization is responsible for the production of Oracle Linux distribution for both on-premise and in Oracle Cloud Infrastructure (OCI). This includes feature evaluation, content management, product and service development, testing and deployment. It provides support and resolution to internal customers including Exadata and OCI. The PESL team is chartered with providing expert analysis and improvement of the performance, efficiency and security of Oracle Linux. If successful, you would be joining a team with deep skills in performance and virtualization examining the latest cloud technologies and frameworks, developing some of Oracle's strategic products, and improving their performance at cloud scale. We are looking for a Senior Software Engineer with expertise and passion in solving difficult problems in high availability, service scalability, operating systems, and virtualization. This role offers huge upside potential, high visibility, and fast career growth. It is a unique opportunity to work with smart people who are solving complex performance problems in the cloud scale.
+As part of this growing team, you will take an active role on a key project that focuses on cloud image monitoring and performance optimization. Your responsibilities include developing, extending and supporting a set of workloads which stress areas of Oracle Linux key to ensuring excellent database performance. The workloads may be executed either on-premise, using laboratory systems, or on cloud instances, using an existing infrastructure which generates, executes, summarizes and displays performance workload results. The work involves automatic generation of reports as well as maintenance and enhancement of the code base. You will be working with cutting edge cloud technologies and contributing to improving the stability, reliability, and performance of Oracle Linux on-premise and on the Cloud.
+Qualifications
+Experience with Linux Systems, including kernel and user space tools, as well as virtualization technologies
+Confident in shell scripting and Linux system administration, including network configuration
+Good understanding of computer systems and architecture, as well as distributed systems concepts including client-server architecture and networking
+Solid background in programming using both low level and high level languages, such as Python, C, C++, Java and Go
+Competent in use of various debugging techniques and languages, such as DTrace, gdb and dbx
+Interest in the latest technologies and ability to learn quickly
+Analytical mind with attention to detail and desire to probe further
+Good communication skills: both written and verbal, along with the ability to communicate complex procedures
+Excellent organizational skills, along with the ability to remain focused on completing tasks and meeting goals
+
+Preferred Qualifications
+Experience working with databases, such as Oracle DB and MySQL, along with SQL skills
+Familiarity with Agile development processes
+Knowledge of DevOps tools and methodologies (e.g., Git, Jenkins, Docker, Kubernetes, Ansible)
+Exposure to various cloud implementations (e.g., Oracle OCI, Amazon AWS, Microsoft Azure)
+Knowledge of data mining, data analysis and machine learning techniques
+
+Responsibilities
+Test development, automation, deployment, execution, data collection, and data visualization
+Data analysis and drill down for root cause analysis using both manual and automated techniques
+Product development, packaging, delivery and maintenance using Agile processes and promoting DevOps tools and methodologies
+Application of machine learning techniques to develop models which generate real time data analytics
+Maintain a high-level understanding of emerging cloud and virtualization technologies
+Solve problems in complex environments - investigate, fix and resolve issues.
+Communicate findings and provide recommendations to other teams to improve product quality and performance
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+
+
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
+"1605313265-2536","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Account Executive Junior","https://mx.indeed.com/rc/clk?jk=ed6a769f1d4cc276&fccid=69404b4fd1d4bb12&vjs=3","Kueski","""DO TECH SHARE WEALTH""
+
+Kueski is a technology company that provides digital financial services to the underserved in Mexico. The company uses advanced artificial intelligence and machine learning tools to conveniently evaluate creditworthiness and disperse loans in a matter of seconds. The company is working to close the “access to credit” gap by creating a digital financial ecosystem in a country where a large part of the population does not have access to safe solutions that allow them to create a healthy credit history.
+
+Kueski is a startup with a presence in Silicon Valley and Guadalajara. Our investors: CrunchFund, Core Ventures Group, Sobrato, and Ariel Poler are between the best in the World having invested in companies such as Uber, Pinterest, FourSquare, Airbnb, and Square.
+
+
+
+Benefits and Perks:
+
+Stock Options.
+Major medical insurance.
+Flexible work time, including working from home.
+10 days of vacations. You decide when to take vacations. Hard work deserves a good rest.
+Breakfast, lunch, snacks… food 24 hours.
+Nap room. (For those moments of nap time).
+Developer-creative oriented workspace.
+Pantry Vouchers
+30 day Christmas Bonus.
+No dress code but PLEASE, come dressed!.
+Law benefits.
+
+
+
+Main objectives for this position:
+
+Develop new business and close agreements with targets within assigned territory (Small Business Merchants)
+Effectively influence and motivate internal cross-functional team members to drive account success.
+Drive client reviews, meetings and presentations at an executive level.
+Develop strategic plan for partnerships relationships and drive plan execution for Large Accounts.
+
+
+
+Technical Skills
+
+Experience with CRM software
+Ability to develop and conduct effective presentations and sales pitch with decision makers (stakeholders)
+Strong analytical and negotiation skills
+Experienced developing and presenting proposals that win new business
+Knowledge of the full life cycle of the sales process from prospecting to close
+Acquainted with online business and/or financial industry
+BA/BS degree preferred
+3+ years of successful sales or account executive experience for B2B.
+Demonstrated success in exceeding sales targets using a consultative, solutions-focused approach.
+Result-oriented. Strong commitment and ownership towards goals or target assigned
+Exceptional communication and presentation skills.
+Highly analytical with data driven mindset.
+Ability to work in fast-paced environment and deal with ambiguity
+
+
+
+ Responsibilities:
+Identify and onboard new Sellers and assist Sellers to drive sales generated from selling on Kueski to meet individual and team target.
+Identify, qualify, and manage a pipeline of prospective Sellers.
+Engage with prospective Sellers to understand their needs and gauge fit with the Kueski Services product set. Cultivate their interest to sell on Kueski.
+Assist Sellers during onboarding process. Manage timeline and action plan to ensure Sellers start Selling on time according to plan.
+Use these metrics to guide your work and increase Seller’s productivity.
+Understand and utilize Salesforce CRM tools to track all pertinent account information and status of prospective Sellers as well as respond to business forecasts as communicated by the Global Selling business.
+Develop a clear understanding of the Selling on Kueski products along with the features and functionalities. Drive feature adoption among Sellers to meet operational metrics.
+
+
+
+Location:
+
+CDMX
+
+
+
+ By submitting your application clicking the ""Submit Application"" button, you are accepting our Privacy Notice, available on: https://kueski.com/politicas"""
+"1605313657-2563","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Lead Product Designer","https://mx.indeed.com/rc/clk?jk=77bd497b9d03b03a&fccid=69404b4fd1d4bb12&vjs=3","Kueski","Why Kueski
+
+
+
+""DO TECH SHARE WEALTH”
+
+
+Kueski is a technology company that provides digital financial services to the underserved in Mexico.
+
+The company uses advanced artificial intelligence and machine learning tools to conveniently
+
+evaluate creditworthiness and disperse loans in a matter of seconds. The company is working to close
+
+the “access to credit” gap by creating a digital financial ecosystem in a country where a large part of
+
+the population does not have access to safe solutions that allow them to create a healthy credit
+
+history.
+
+Kueski is a startup with a presence in Silicon Valley and Guadalajara. Our investors: CrunchFund,
+
+Core Ventures Group, Sobrato, and Ariel Poler are between the best in the World having invested in
+
+companies such as Uber, Pinterest, FourSquare, Airbnb, and Square.
+
+Benefits and Perks:
+
+
+Stock Options.Major medical insurance & Flexible work time, including working from home.10 days of vacations. You decide when to take vacations. Hard work deserves a good rest.Breakfast, lunch, snacks… food 24 hours.Nap room. (For those moments of nap time).Developer-creative oriented workspace.Pantry Vouchers30 day Christmas Bonus.No dress code but PLEASE, come dressed!.Law benefits.
+
+Objective:
+
+As Lead Product Designer, you’ll define and launch new product experiences.
+
+Main objectives for this position:
+
+Define and launch Kueski’s new financial experiences
+Create and nutrish a UX culture across the company
+Mentor and grow our UX talent
+
+Why you:
+
+Requirements of the position:
+
+7+ years of experience with end-to-end product design
+Demonstrated history for leading the design of simple, elegant and beautify systems and products
+Appetite for validating ideas by running research and interpreting qualitative and quantitative data
+Systems-thinker with the ability to think beyond the pixels and design for offline experiences
+Ability to balance business needs, data metrics, and UX
+Excellent communicator and cross functional collaborator
+Proven skills in stakeholder management and visual storytelling
+Thrives in a fast-paced, ambiguous environment
+Expertise in Sketch, Figma, and other tools for generating wireframes, designs, prototypes and specifications
+
+Responsibilities.
+
+Define the visual system, tools and communication style for our products and services
+Define the design process and lead others through it
+Deliver and test designs in small chunks to uncover insights and validate hypotheses at high speed
+Inspire a team of top UX designers to do their best work with an eye on quality
+Provide leadership and mentorship for a team of designers
+Partner with Product Managers, Engineers and Data Scientists to define problems and goals, user flows, prototype interactions and launch new products and services
+
+You will need to be successful:
+
+Combine your leadership, design and communication skills to launch new product experiences users love.
+
+Location:
+
+Remote / Guadalajara, Jalisco
+
+International/National relocation covered by Kueski.
+
+
+
+By submitting your application clicking the &quot;Submit Application&quot; button, you are accepting our Privacy Notice, available on: https://kueski.com/politicas"
+"1605313883-2582","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","2","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=10","Operations Associate","https://mx.indeed.com/rc/clk?jk=f1d3f8f9fb6bed2e&fccid=55ebd28e88790c63&vjs=3","Scaleapi","As an early member of our operations team, you'll be accountable for driving revenue by ensuring that Scale AI meets customer commitments in a timely manner while maintaining the highest quality standards. You will manage our supply operation funnel by building and running solutions, tools, and processes by working with a cross-functional team including Customer Operations, Product Operations, Product Managers, and many others.
+
+
+
+You will be solving problems no one has solved before, and you will need to be relentless in driving stellar results, running pilots, tests, and experiments. You’ll come up with creative solutions to bottlenecks. The blend of operations and ownership of our most important outcomes make this a unique and exciting role at the heart of Scale’s daily operations.
+
+
+The ideal candidate is scrappy, analytical, empathetic, outcome focused, and above all someone who drives and inspires results.
+You will:
+Build and drive some of our most critical operational processes.
+Own the day-to-day delivery of customer commitments.
+Create an effective feedback loop between the front line, product, strategy, and customers.
+Collaborate with stakeholders to improve processes for new and existing customers
+Ideally you’d have:
+Advanced English skills.
+Industry experience in an operational role and/or a top-tier consulting firm.
+An undergraduate degree with an analytics heavy major (e.g., Engineering or Economics) and/or a graduate degree in Engineering, Economics, or Business.
+An action-oriented mindset that balances creative problem solving with the scrappiness to ultimately deliver results.
+Analytical, planning, and process improvement capability.
+Nice to have:
+Experience with reading SQL, or have demonstrated analytical skills.
+
+
+About Us:
+At Scale, our mission is to accelerate the development of Machine Learning and AI applications across multiple markets. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include OpenAI, Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more.
+
+
+Scale AI is an equal opportunity employer. We aim for every person at Scale to feel like they matter, belong, and can be their authentic selves so they can do their best work. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+Scale AI is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information."
+"1605313342-2543","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","","","Big Data Engineer","https://mx.indeed.com/rc/clk?jk=0b5f57c18256c427&fccid=58000ab63795c5f4&vjs=3","Segundamano","Descripción de la empresa
+Segundamano is the leader in online classified ads in Mexico. Our goal is to provide an easy way to buy and sell between private and professional users, and to help sellers increase their business.
+Segundamano is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment regardless of race, color, religion, gender identity or expression, sexual orientation, national origin, genetics, disability, or age.
+Descripción del empleo
+Do you know what is big data?
+Do you know what is the internet of things?
+Do you like to solve intricate puzzles thinking outside of the box?
+Are you naturally curious and constantly looking for answers?
+Do you live in the cloud?
+Do you consider yourself “agile”?
+If your answer is “Yes!” to most of the above questions, then you might be the candidate we’re looking for!
+Please contact us and send us your application to become our next Data Engineer.
+Key responsibilities
+Create and maintain scalable ELT solutions using cloud platforms for big data.
+Develop and maintain services to host and consume Machine Learning models.
+Manage additions or modifications to existing data streams to meet reporting requests coming from Data Analysts and Scientists.
+Perform Data Quality checks to identify and correct issues with the data infrastructure in place.
+Collaborate with stakeholders to ensure availability of data sources and data tools.
+Requisitos
+Technical Qualifications or Experience - must have
+You have strong SQL, Python and analytic skills related to working with structured and unstructured data.
+You have substantial experience working with Big Data, ETLs and Data Warehousing.
+You know how to translate business needs into technical requirements for analysis and reporting.
+Successful design, implementation, and deployment of data models for reporting and analytics.
+You know how to work properly with version control systems like git.
+Technical Qualifications - nice to have
+You have experience writing code for automation (continuous integration, deployment, configuration management, etc.)
+You understand and are comfortable using Google Cloud, AWS, or any proprietary clouds.
+You have experience with event-based architecture (Kafka, Kinesis, etc.)
+You have used Scrum or other agile methodologies in a professional environment.
+Información adicional
+We’re looking for curious people with self-directed learning.
+Good oral and written communication skills in Spanish and English.
+Change is a constant in Segundamano, so adaptability is very appreciated.
+Friendly and respectful, ready to work with multiple teams and diverse people."
+"1605313493-2556","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","4","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=30","Desarrollador iOS","https://mx.indeed.com/company/Training-Talent/jobs/Desarrollador-ios-c2b06472d68dd52d?fccid=b24d69c571894523&vjs=3","Training Talent","Actividades: Apoyo en Selección de herramientas para resolución de problemas técnicos. Diseño y desarrollo de documentación de arquitectura de sistemas (Móviles con IOS) Resolución de problemas técnicos en aplicaciones nativas, Análisis y desarrollo de servicios WEB. Documentación en genera.¿Queres ser parte de una consultora de servicios de desarrollo de software con integraciones en nube, soluciones IoT y Machine Learning con presencia en Latam y EEUU socios de Microsoft, Amazon, Oracle?Ofrecemos: De $44,000 pesos brutos, 100% nominal prestaciones de Ley y superioresDe lunes a viernes de 9:00 a.m. a 6:30 p.m.Lugar de trabajo: Home office y posteriormente oficinaBuscamos de 3 a 5 años de experiencia como:Desarrollador de aplicaciones móviles, apps, IOS Developer, XCode developer, apps Developer, programador móvil, etc.Experiencia en desarrollo de aplicaciones con IOS 5.x, iOS 6.x, iOS 7.x, hasta versión 9 u 11 uso de XCode Swift 4Conocimiento del ciclo de vida de una app iOS (AppDelegate), Integración de los certificados de una app. Manejo de vistas. Conocimiento del ciclo de vida de las vistas, ui navigation Controller, manejo de alertviews, Uitableview. Conocimiento de las guías de diseño de interfaz de iOSExperiencia en patrones de diseño de código: Flutter, MapKit, Quicklock, etc. Patrones de arquitectura MVC o MVPDesarrollo en AppleWatch, AppleTV, Ipad, Iphone, etc.Desarrollo de funcionalidades como almacenamiento sin conexión, notificaciones push, acceso y control de dispositivo.Manejo de servicios REST Json, consumo de servicios web SOAP y RestManejo de bases de datos SQLite, Couchbase, LevelDb, Berkeley, unQLite e integración con bases externasControl de versiones con GIT o Git Hub, Bitbucket, Rational, TFS, SVN, etc uso de Maven para compilación (opcional Gradle o Ant)Pruebas unitarias e integrales con Junit, cucumber, Selenium, etc. Simulación de componentes con Mockito, JMock, Wiremock, etc.Experiencia preferentemente en Desarrollo de Aplicaciones Corporativas o JuegosExperiencia o conocimiento en estimación y dimensionamiento de tiempos de entregaPlataforma de control de versiones GitHub, bitbucket, SVN, etcConocimientos técnicos deseables:Experiencia publicando en la tienda de aplicacionesManejo del SDK Facebook, API de Twitter (integración con redes sociales)Manejo de plataforma Phonegap, Xamarin, Genexus.Seguridad APPTipo de puesto: Tiempo completo, IndefinidoSalario: $43,000.00 - $44,000.00 al mesHorario:Lunes a viernes"
+"1605313691-2566","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14","3","https://mx.indeed.com/jobs?q=machine+learning&l=M%C3%A9xico&fromage=14&start=20","Software Developer - Java | PL/SQL","https://mx.indeed.com/rc/clk?jk=428addb1f30642c6&fccid=cd22d01053af7669&vjs=3","Oracle","Software Developer - Java | PL/SQL-20000YGG
+
+
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+
+Do you want to work on a product that is a suite of next-generation integrated monitoring, active management, and analytic cloud services that leverage machine learning and big data techniques against the full breadth of the operational data set?
+Are you interested in making an enterprise software that will help customers move their databases and applications into the cloud?
+Are you interested in making an enterprise software that will help customers manage their cloud assets at scale?
+
+
+Imagine what it means to customers to just deal with their business problem, rather than spending countless hours of administrative, maintenance activities of maintaining the underlying platform. We are in the business of making it happen.
+Think about how much automation, dev-ops innovation is needed to provide a slick experience for an enterprise to put a foot into the cloud world and improve their management capabilities.
+Imagine the scale at which we need to make it happen. Also add the equation of Hybrid cloud in mix. Yes, a good chunk of enterprise customers want the best of both worlds, Private and Public Cloud. Our team is excited to deliver just that option!
+If the above excites you, please apply. We have multiple positions to build an overall “A” team that can make the cutting edge Database as service automation a reality.
+
+
+Oracle Enterprise Manager is Oracle’s on-premises management platform, providing a single pane of glass for managing all of a customer's Oracle deployments, whether in their data centers or in Oracle Cloud. Through deep integration with Oracle’s product stack, Enterprise Manager Database Management provides a full-lifecycle solution for managing databases encompassing change and configuration management, compliance, patching, provisioning, testing, performance management, and automatic tuning.
+
+
+About You
+This opening is for a full stack Senior Software Engineer in the Database Management area in the Enterprise Manager product. You will work with a fast-growing, action-oriented team of software engineers, test automation engineers, product managers and UX designers to build out new functionality and enhancements within the product. As a team, we use Agile methodologies to self organize and deliver value at a rapid pace.
+ This is a core area in Database Server management where new technology is continuously being developed to make the database server perform better, scale-up to greater throughput and provide the functionality to help migration to the cloud. You will have the opportunity to deal with challenging customer problems that require systems knowledge i.e. spanning across key areas of operating systems, databases, parallel and distributed systems as well as cloud infrastructure. If you are interested in solving challenging problems in system architecture and algorithms, then this the role for you.
+Preferred Qualifications
+3+ years’ experience as a Software Developer/Engineer within an Enterprise Product Development team
+3+ years’ experience with a high-level programming language (Java preferred)
+3+ years’ experience and expertise working with database software or related systems software and PL/SQL programming
+Must possess excellent debugging skills
+2+ years' of experience with modern javascript libraries
+Familiarity with build systems such as Gradle and unit test frameworks
+Bachelor’s degree in Computer Science, Engineering or related field
+Additional Competencies
+A can-do attitude with a high interest in learning new technologies and how to function in a multi-dimensional team environment.
+Excellent verbal and written communication skills
+Experienced with multiple software development methodologies, with an emphasis and passion for Agile
+Ability to communicate and collaborate effectively with all levels of the organization and across multiple technical and non-technical groups
+Comfortable and effective in internal and external-facing scenarios
+A can-do attitude with a willingness to take on challenging tasks and the ability to multitask effectively across multiple areas of responsibilities
+Can prioritize tasks effectively to ensure timely delivery of the project
+
+Background in data warehouse and data analytics would be an added advantage
+
+
+
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+
+
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+
+
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+
+
+
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+
+
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+
+
+Job: Product Development
+Location: MX-MX,Mexico-Guadalajara/Zapopan
+Job Type: Regular Employee Hire
+Organization: Oracle"
